@@ -1,82 +1,2322 @@
 [
   {
     "title": "Energético Maracujá & Melão Red Bull Lata 250ml The Summer Edition",
-    "price": "R$ 9,19"
+    "rawPrice": "R$ 9,19",
+    "link": "https://mercado.carrefour.com.br/energetico-maracuja-e-melao-red-bull-lata-250ml-the-summer-edition-3543722/p"
   },
   {
     "title": "Energético Red Bull Sem Açúcar 250ml",
-    "price": "R$ 9,09"
+    "rawPrice": "R$ 9,09",
+    "link": "https://mercado.carrefour.com.br/energetico-red-bull-sem-acucar-250ml-4701240/p"
   },
   {
-    "title": "Whisky Old Parr 750ml",
-    "price": "R$ 143,90"
+    "title": "Refrigerante Guaraná Antarctica Sem Açúcar Lata 350ML",
+    "rawPrice": "R$ 3,49",
+    "link": "https://mercado.carrefour.com.br/refrigerante-guarana-antarctica-sem-acucar-lata-350ml-2067811/p"
   },
   {
-    "title": "Gin Tanqueray London Dry 750ml",
-    "price": "R$ 124,90"
+    "title": "Água Tônica Antarctica Diet 350ml",
+    "rawPrice": "R$ 3,49",
+    "link": "https://mercado.carrefour.com.br/agua-tonica-antarctica-diet-350ml-155390/p"
   },
   {
-    "title": "Whisky Chivas Regal Escocês 12 Anos 1 L",
-    "price": "R$ 174,90"
+    "title": "Cerveja Pilsen Brahma Chopp Lata 350ml",
+    "rawPrice": "R$ 3,49",
+    "link": "https://mercado.carrefour.com.br/cerveja-pilsen-brahma-chopp-lata-350ml-154865/p"
   },
   {
-    "title": "Whisky Johnnie Walker Red Label 750ml",
-    "price": "R$ 82,90"
+    "title": "Jack Daniels & Mclaren Ed. Lim 700ml",
+    "rawPrice": "R$ 199,90",
+    "link": "https://mercado.carrefour.com.br/jack-daniels-e-mclaren-ed-lim-700ml-3251730/p"
   },
   {
-    "title": "Guaraná Antarctica Garrafa 200 ml",
-    "price": "R$ 1,49"
+    "title": "Gin Gordon's London Dry 750ml",
+    "rawPrice": "R$ 79,90",
+    "link": "https://mercado.carrefour.com.br/gin-gordons-london-dry-750ml-9599002/p"
   },
   {
-    "title": "Refrigerante Coca-Cola Sem Açúcar 220ML",
-    "price": "R$ 2,99"
+    "title": "Bebida Láctea Café Expresso Zero Lactose Yopro Energy Boost 250ml",
+    "rawPrice": "R$ 7,15",
+    "link": "https://mercado.carrefour.com.br/bebida-lactea-cafe-expresso-zero-lactose-yopro-energy-boost-250ml-3207854/p"
   },
   {
-    "title": "Cerveja Lager Premium Puro Malte Amstel Lata 350ml",
-    "price": "R$ 3,99"
+    "title": "Refrigerante Coca-Cola Sem Açúcar Pet 200 ml",
+    "rawPrice": "R$ 1,79",
+    "link": "https://mercado.carrefour.com.br/refrigerante-cocacola-sem-acucar-pet-200-ml-5235790/p"
   },
   {
-    "title": "Aperitivo Bitter Campari 748ml",
-    "price": "R$ 58,89"
+    "title": "Whisky Buchanan's Deluxe 12 Anos 1L",
+    "rawPrice": "R$ 214,90",
+    "link": "https://mercado.carrefour.com.br/whisky-buchanans-deluxe-12-anos-1l-164666/p"
   },
   {
-    "title": "Refrigerante h2oh Limão Garrafa 1,5L",
-    "price": "R$ 7,99"
+    "title": "Refrigerante Pepsi Black Sem Açúcar 350ml Lata",
+    "rawPrice": "R$ 2,99",
+    "link": "https://mercado.carrefour.com.br/refrigerante-pepsi-black-sem-acucar-350ml-lata-9767320/p"
   },
   {
-    "title": "Whisky Johnnie Walker Red Label 500 ml",
-    "price": "R$ 54,90"
+    "title": "Refrigerante Lemon Fresh Sem Açúcar Sprite Pet 510 ml",
+    "rawPrice": "R$ 3,69",
+    "link": "https://mercado.carrefour.com.br/refrigerante-lemon-fresh-sem-acucar-sprite-pet-510-ml-5592984/p"
   },
   {
-    "title": "Coca-Cola Lata 220 ml",
-    "price": "R$ 2,99"
+    "title": "Cerveja Budweiser American Lager 330ml Long Neck",
+    "rawPrice": "R$ 4,99",
+    "link": "https://mercado.carrefour.com.br/cerveja-budweiser-american-lager-330ml-long-neck-5513286/p"
   },
   {
-    "title": "Vodka Smirnoff 998ml",
-    "price": "R$ 39,90"
+    "title": "Água Tônica Antarctica 350ml",
+    "rawPrice": "R$ 3,49",
+    "link": "https://mercado.carrefour.com.br/agua-tonica-antarctica-350ml-156795/p"
   },
   {
-    "title": "Whisky Jack Daniel’s Old No. 7 Tennessee Whiskey 1L",
-    "price": "R$ 169,90"
+    "title": "Cerveja Coronita Long Neck 210ml",
+    "rawPrice": "R$ 5,19",
+    "link": "https://mercado.carrefour.com.br/cerveja-coronita-long-neck-210ml-5760607/p"
   },
   {
-    "title": "Whisky Johnnie Walker Red Label 1L",
-    "price": "R$ 109,90"
+    "title": "Smirnoff Ice 275ml",
+    "rawPrice": "R$ 7,79",
+    "link": "https://mercado.carrefour.com.br/smirnoff-ice-275ml-5173019/p"
   },
   {
-    "title": "Whisky Buchanan's Deluxe 12 Anos 750ml",
-    "price": "R$ 171,90"
+    "title": "Cerveja Corona Extra Pilsen 330ml Long Neck",
+    "rawPrice": "R$ 7,19",
+    "link": "https://mercado.carrefour.com.br/cerveja-corona-extra-pilsen-330ml-long-neck-5760593/p"
   },
   {
-    "title": "Whisky Jack Daniel's Tennessee Fire 1 L",
-    "price": "R$ 169,90"
+    "title": "Refrigerante Guaraná Antarctica Sem Açúcar Garrafa 1,5L",
+    "rawPrice": "R$ 6,59",
+    "link": "https://mercado.carrefour.com.br/refrigerante-guarana-antarctica-sem-acucar-garrafa-15l-7525079/p"
   },
   {
-    "title": "Whisky Ballantine's Finest Blended Escocês – 750 ml",
-    "price": "R$ 84,90"
+    "title": "Drink Pronto Beats Senses 269ml Lata",
+    "rawPrice": "R$ 5,99",
+    "link": "https://mercado.carrefour.com.br/drink-pronto-beats-senses-269ml-lata-9564543/p"
   },
   {
-    "title": "Bebida Láctea Cappuccino Zero Lactose Yopro Energy Boost 250ml",
-    "price": "R$ 8,49"
+    "title": "Cerveja Lager Premium Puro Malte Stella Artois 330ml",
+    "rawPrice": "R$ 5,99",
+    "link": "https://mercado.carrefour.com.br/cerveja-lager-premium-puro-malte-stella-artois-330ml-6242740/p"
+  },
+  {
+    "title": "Cerveja Munich Helles Puro Malte Spaten Lata 269ml",
+    "rawPrice": "R$ 3,39",
+    "link": "https://mercado.carrefour.com.br/cerveja-munich-helles-puro-malte-spaten-lata-269ml-6884342/p"
+  },
+  {
+    "title": "Refrigerante ANTARCTICA Guaraná Lata 350ML",
+    "rawPrice": "R$ 3,39",
+    "link": "https://mercado.carrefour.com.br/refrigerante-antarctica-guarana-lata-350ml-1036645/p"
+  },
+  {
+    "title": "Aperol Aperitivo Spritz 750ml",
+    "rawPrice": "R$ 60,99",
+    "link": "https://mercado.carrefour.com.br/aperol-aperitivo-spritz-750ml-8942501/p"
+  },
+  {
+    "title": "Cerveja Heineken Zero Garrafa 330ml",
+    "rawPrice": "R$ 6,79",
+    "link": "https://mercado.carrefour.com.br/cerveja-heineken-zero-garrafa-330ml-6643396/p"
+  },
+  {
+    "title": "Vinho Tinto Casa Crebar 2018 Cabernet Sauvignon 750ml",
+    "rawPrice": "R$ 28,90",
+    "link": "https://mercado.carrefour.com.br/vinho-tinto-casa-crebar-2018-cabernet-sauvignon-750ml-5477883/p"
+  },
+  {
+    "title": "Refrigerante Pepsi Black Sabor Cola sem Açúcares Garrafa 1,5L",
+    "rawPrice": "R$ 6,39",
+    "link": "https://mercado.carrefour.com.br/refrigerante-pepsi-black-sabor-cola-sem-acucares-garrafa-15l-6947972/p"
+  },
+  {
+    "title": "Cerveja Corona Pilsen Lata 350ml",
+    "rawPrice": "R$ 5,99",
+    "link": "https://mercado.carrefour.com.br/cerveja-corona-pilsen-lata-350ml-6877931/p"
+  },
+  {
+    "title": "Suco Del Valle Néctar Uva 1L",
+    "rawPrice": "R$ 8,99",
+    "link": "https://mercado.carrefour.com.br/suco-del-valle-nectar-uva-1l-4308913/p"
+  },
+  {
+    "title": "Whisky Johnnie Walker Double Black 1L",
+    "rawPrice": "R$ 249,90",
+    "link": "https://mercado.carrefour.com.br/whisky-johnnie-walker-double-black-1l-9122940/p"
+  },
+  {
+    "title": "Vodka Smirnoff 600ml",
+    "rawPrice": "R$ 26,89",
+    "link": "https://mercado.carrefour.com.br/vodka-smirnoff-600ml-9443851/p"
+  },
+  {
+    "title": "Whisky Old Parr 1L",
+    "rawPrice": "R$ 179,90",
+    "link": "https://mercado.carrefour.com.br/whisky-old-parr-1l-511196/p"
+  },
+  {
+    "title": "Cerveja Heineken Garrafa 600ml",
+    "rawPrice": "R$ 12,69",
+    "link": "https://mercado.carrefour.com.br/cerveja-heineken-garrafa-600ml-7941234/p"
+  },
+  {
+    "title": "Água Tônica Schweppes sem Açúcar Lata 350 ml",
+    "rawPrice": "R$ 3,39",
+    "link": "https://mercado.carrefour.com.br/agua-tonica-schweppes-sem-acucar-lata-350-ml-7753632/p"
+  },
+  {
+    "title": "Coca-Cola Sem Açúcar Pet 1 L",
+    "rawPrice": "R$ 6,79",
+    "link": "https://mercado.carrefour.com.br/coca-cola-zero-acucar-1-litro/p"
+  },
+  {
+    "title": "Coca Cola Sem Açúcar Lata 310 ml",
+    "rawPrice": "R$ 3,49",
+    "link": "https://mercado.carrefour.com.br/coca-cola-sem-acucar-lata-310-ml-5013976/p"
+  },
+  {
+    "title": "Água Tônica Schweppes 350ML",
+    "rawPrice": "R$ 3,39",
+    "link": "https://mercado.carrefour.com.br/agua-tonica-schweppes-350ml-9475338/p"
+  },
+  {
+    "title": "Cerveja Lager Puro Malte Zero Álcool Heineken Lata 269ml",
+    "rawPrice": "R$ 4,49",
+    "link": "https://mercado.carrefour.com.br/cerveja-lager-puro-malte-zero-alcool-heineken-lata-269ml-6973744/p"
+  },
+  {
+    "title": "Whisky Chivas Regal Escocês 12 Anos 750 ml",
+    "rawPrice": "R$ 147,90",
+    "link": "https://mercado.carrefour.com.br/whisky-chivas-regal-escoces-12-anos-750-ml-4968204/p"
+  },
+  {
+    "title": "Água de Coco Orgânica Carrefour Bio 1 Litro",
+    "rawPrice": "R$ 18,99",
+    "link": "https://mercado.carrefour.com.br/agua-de-coco-organica-carrefour-bio-1-litro-6356095/p"
+  },
+  {
+    "title": "Chá de Camomila e Capim-Limão Ahmad Tea London Fruit & Herb Caixa com 10 Sachês",
+    "rawPrice": "R$ 17,95",
+    "link": "https://mercado.carrefour.com.br/cha-de-camomila-e-capim-limao-ahmad-tea-london-fruit-e-herb-caixa-com-10-saches-6727298/p"
+  },
+  {
+    "title": "Suco Kapo Uva 200ML",
+    "rawPrice": "R$ 2,59",
+    "link": "https://mercado.carrefour.com.br/suco-kapo-uva-200ml-3359913/p"
+  },
+  {
+    "title": "Cerveja Eisenbahn Pilsen Puro Malte Unfiltered Garrafa 355ml",
+    "rawPrice": "R$ 5,09",
+    "link": "https://mercado.carrefour.com.br/cerveja-eisenbahn-pilsen-puro-malte-unfiltered-garrafa-355ml-6674372/p"
+  },
+  {
+    "title": "Refrigerante Antarctica Guaraná Garrafa 1L RegulaR",
+    "rawPrice": "R$ 5,99",
+    "link": "https://mercado.carrefour.com.br/refrigerante-antarctica-guarana-garrafa-1l-regular-7218605/p"
+  },
+  {
+    "title": "Bebida à Base de Aveia Orgânica Nude 1L",
+    "rawPrice": "R$ 18,90",
+    "link": "https://mercado.carrefour.com.br/bebida-a-base-de-aveia-organica-nude-1l-6517358/p"
+  },
+  {
+    "title": "Àgua Mineral Saborizada com Gás Limão Crystal Pet 520 ml",
+    "rawPrice": "R$ 3,19",
+    "link": "https://mercado.carrefour.com.br/agua-mineral-saborizada-com-gas-limao-crystal-sparkling-garrafa-520ml-5708036/p"
+  },
+  {
+    "title": "Whisky Johnnie Walker Black Label 750ml",
+    "rawPrice": "R$ 139,90",
+    "link": "https://mercado.carrefour.com.br/whisky-johnnie-walker-black-label-750ml-8603316/p"
+  },
+  {
+    "title": "Coca-Cola Sem Açúcar 6 Unidades 350 ml Cada Pack Leve Mais Pague Menos",
+    "rawPrice": "R$ 22,35",
+    "link": "https://mercado.carrefour.com.br/cocacola-sem-acucar-6-unidades-350-ml-cada-pack-leve-mais-pague-menos-6462898/p"
+  },
+  {
+    "title": "Whisky Jack Daniel's Tennessee Honey 1 L",
+    "rawPrice": "R$ 169,90",
+    "link": "https://mercado.carrefour.com.br/whisky-jack-daniels-tennessee-honey-1-l-9517677/p"
+  },
+  {
+    "title": "Vinho Branco Argentino Chardonnay Exclusivo Carrefour 750ml",
+    "rawPrice": "R$ 49,99",
+    "link": "https://mercado.carrefour.com.br/vinho-branco-argentino-chardonnay-exclusivo-carrefour-750ml-6658873/p"
+  },
+  {
+    "title": "Vinho Rose Argentino Suelo Malbec 750ml",
+    "rawPrice": "R$ 49,99",
+    "link": "https://mercado.carrefour.com.br/vinho-rose-argentino-suelo-malbec-750ml-6656773/p"
+  },
+  {
+    "title": "Vinho Tinto Meio Seco Terroirs Du Monde Merlot 750ml",
+    "rawPrice": "R$ 22,98",
+    "link": "https://mercado.carrefour.com.br/vinho-tinto-meio-seco-terroirs-du-monde-merlot-750ml-6614663/p"
+  },
+  {
+    "title": "Cerveja Baden Baden Witbier Lata 350 ml",
+    "rawPrice": "R$ 6,39",
+    "link": "https://mercado.carrefour.com.br/cerveja-baden-baden-witbier-lata-350-ml-6169759/p"
+  },
+  {
+    "title": "Cerveja de Trigo Hoegaarden Lata 269ml",
+    "rawPrice": "R$ 4,49",
+    "link": "https://mercado.carrefour.com.br/cerveja-de-trigo-hoegaarden-lata-269ml-641863w-6418635/p"
+  },
+  {
+    "title": "Bebida Láctea Uht Chocolate Toddynho Caixa 200Ml",
+    "rawPrice": "R$ 2,95",
+    "link": "https://mercado.carrefour.com.br/bebida-lactea-instantanea-toddynho-200ml-149314/p"
+  },
+  {
+    "title": "Bebida Láctea UHT Chocolate Toddynho Levinho 200ml",
+    "rawPrice": "R$ 2,95",
+    "link": "https://mercado.carrefour.com.br/bebida-lactea-uht-chocolate-toddynho-levinho-200ml-5516668/p"
+  },
+  {
+    "title": "Refrigerante Soda Limonada Antarctica Zero Lata 350ML",
+    "rawPrice": "R$ 2,99",
+    "link": "https://mercado.carrefour.com.br/refrigerante-soda-limonada-antarctica-zero-lata-350ml-156183/p"
+  },
+  {
+    "title": "Coca-Cola Pet 600 ml",
+    "rawPrice": "R$ 5,49",
+    "link": "https://mercado.carrefour.com.br/cocacola-pet-600-ml-416991/p"
+  },
+  {
+    "title": "Néctar de Maracujá Del Valle 1 L",
+    "rawPrice": "R$ 8,99",
+    "link": "https://mercado.carrefour.com.br/nectar-de-maracuja-del-valle-1-l-4308921/p"
+  },
+  {
+    "title": "Bebida Mista Alcoólica Gaseificada Spritz Schweppes Mixed Lata 269ml",
+    "rawPrice": "R$ 6,85",
+    "link": "https://mercado.carrefour.com.br/bebida-mista-alcoolica-gaseificada-spritz-schweppes-mixed-lata-269ml-3479668/p"
+  },
+  {
+    "title": "Refrigerante Soda Antarctica Zero Garrafa 2L",
+    "rawPrice": "R$ 7,99",
+    "link": "https://mercado.carrefour.com.br/refrigerante-soda-antarctica-zero-garrafa-2l-4952294/p"
+  },
+  {
+    "title": "Espumante Rosé Miolo Cuvée Tradition Chardonnay Pinot Noir Vale dos Vinhedos 750ml",
+    "rawPrice": "R$ 84,90",
+    "link": "https://mercado.carrefour.com.br/espumante-rose-miolo-cuvee-tradition-chardonnay-pinot-noir-vale-dos-vinhedos-750ml-8269173/p"
+  },
+  {
+    "title": "Cerveja Patagonia Amber Lager Lata 350 ml",
+    "rawPrice": "R$ 6,19",
+    "link": "https://mercado.carrefour.com.br/cerveja-patagonia-amber-lager-lata-350-ml-6542425/p"
+  },
+  {
+    "title": "Cerveja Baden Baden Pilsen Cristal Lata 350 ml",
+    "rawPrice": "R$ 6,39",
+    "link": "https://mercado.carrefour.com.br/cerveja-baden-baden-pilsen-cristal-lata-350-ml-6169694/p"
+  },
+  {
+    "title": "Espumante Salton Demi-Sec Branco Chardonnay e Trebbiano 750ml",
+    "rawPrice": "R$ 39,90",
+    "link": "https://mercado.carrefour.com.br/espumante-salton-demisec-branco-chardonnay-e-trebbiano-750ml-747904/p"
+  },
+  {
+    "title": "Água Mineral com Gás Minalba 1,5 Litros",
+    "rawPrice": "R$ 4,15",
+    "link": "https://mercado.carrefour.com.br/agua-mineral-com-gas-minalba-1-5-litros-8316619/p"
+  },
+  {
+    "title": "Vinho Tinto Meio Seco Terroirs Du Monde Cabernet Sauvignon 750ml",
+    "rawPrice": "R$ 26,90",
+    "link": "https://mercado.carrefour.com.br/vinho-tinto-meio-seco-terroirs-du-monde-cabernet-sauvignon-750ml-6614671/p"
+  },
+  {
+    "title": "Refrigerante Fanta Guaraná 2L",
+    "rawPrice": "R$ 7,99",
+    "link": "https://mercado.carrefour.com.br/refrigerante-fanta-guarana-2l-5063159/p"
+  },
+  {
+    "title": "Água Mineral Natural sem Gás Bioleve 510 ml",
+    "rawPrice": "R$ 2,19",
+    "link": "https://mercado.carrefour.com.br/agua-mineral-natural-sem-gas-bioleve--510-ml-5775876/p"
+  },
+  {
+    "title": "Rum Montilla Carta Ouro 1 L",
+    "rawPrice": "R$ 42,90",
+    "link": "https://mercado.carrefour.com.br/rum-montilla-carta-ouro-1-l-7417934/p"
+  },
+  {
+    "title": "Conhaque Dreher 900ml",
+    "rawPrice": "R$ 21,89",
+    "link": "https://mercado.carrefour.com.br/conhaque-dreher-900ml-3137570/p"
+  },
+  {
+    "title": "Cerveja Brahma Malzbier 350ml",
+    "rawPrice": "R$ 4,69",
+    "link": "https://mercado.carrefour.com.br/cerveja-brahma-malzbier-350ml-4890485/p"
+  },
+  {
+    "title": "Cerveja Império Puro Malte Lager 275ml",
+    "rawPrice": "R$ 4,19",
+    "link": "https://mercado.carrefour.com.br/cerveja-imperio-puro-malte-lager-275ml-5192722/p"
+  },
+  {
+    "title": "Cerveja Heineken Lata 269ml",
+    "rawPrice": "R$ 4,49",
+    "link": "https://mercado.carrefour.com.br/cerveja-heineken-lata-269ml-6688802/p"
+  },
+  {
+    "title": "Cerveja Baden Baden Peach Lata 350ml",
+    "rawPrice": "R$ 6,39",
+    "link": "https://mercado.carrefour.com.br/cerveja-baden-baden-peach-lata-350ml-6674399/p"
+  },
+  {
+    "title": "Energético Red Bull Energy Drink 473ml",
+    "rawPrice": "R$ 16,89",
+    "link": "https://mercado.carrefour.com.br/energetico-red-bull-energy-drink-473ml-7293364/p"
+  },
+  {
+    "title": "Coca-Cola Pet 1 L",
+    "rawPrice": "R$ 6,79",
+    "link": "https://mercado.carrefour.com.br/coca-cola-1-litro/p"
+  },
+  {
+    "title": "Bebida à Base de Amêndoa Baunilha Blue Diamond Almond Breeze Caixa 1 L",
+    "rawPrice": "R$ 16,39",
+    "link": "https://mercado.carrefour.com.br/bebida-a-base-de-amendoa-baunilha-blue-diamond-almond-breeze-caixa-1-l-5520339/p"
+  },
+  {
+    "title": "Cerveja Eisenbahn Session IPA Long Neck 355ml",
+    "rawPrice": "R$ 6,95",
+    "link": "https://mercado.carrefour.com.br/cerveja-eisenbahn-session-ipa-long-neck-355ml-6540139/p"
+  },
+  {
+    "title": "Fanta Uva Lata 350 ml",
+    "rawPrice": "R$ 3,59",
+    "link": "https://mercado.carrefour.com.br/fanta-uva-lata-350-ml-51405s-514055/p"
+  },
+  {
+    "title": "Vinho Tinto Chileno Trauco Isla Grande Merlot Valle Central 750 ml",
+    "rawPrice": "R$ 54,99",
+    "link": "https://mercado.carrefour.com.br/vinho-tinto-chileno-trauco-isla-grande-merlot-valle-central-750-ml-6444369/p"
+  },
+  {
+    "title": "Refrigerante Soda Limonada Antarctica Lata 350ML",
+    "rawPrice": "R$ 2,99",
+    "link": "https://mercado.carrefour.com.br/refrigerante-soda-limonada-antarctica-lata-350ml-261688/p"
+  },
+  {
+    "title": "Néctar de Goiaba Maguary 1 Litro",
+    "rawPrice": "R$ 7,99",
+    "link": "https://mercado.carrefour.com.br/nectar-de-goiaba-maguary-1-litro-4720539/p"
+  },
+  {
+    "title": "Tequila Don Julio Prata 750ml",
+    "rawPrice": "R$ 299,90",
+    "link": "https://mercado.carrefour.com.br/tequila-don-julio-prata-750ml-9921753/p"
+  },
+  {
+    "title": "Refrigerante Guaraná Antarctica Lata 269ML",
+    "rawPrice": "R$ 2,69",
+    "link": "https://mercado.carrefour.com.br/refrigerante-guarana-antarctica-lata-269ml-9844082/p"
+  },
+  {
+    "title": "Refrigerante Fanta Laranja 1,5 L",
+    "rawPrice": "R$ 7,69",
+    "link": "https://mercado.carrefour.com.br/refrigerante-fanta-laranja-1-5-l-4653106/p"
+  },
+  {
+    "title": "Néctar Del Valle Abacaxi Caixa 1 L",
+    "rawPrice": "R$ 7,15",
+    "link": "https://mercado.carrefour.com.br/nectar-del-valle-abacaxi-caixa-1-l-6439152/p"
+  },
+  {
+    "title": "Vinho Branco Seco Blend de Blancas Novecento 750ml",
+    "rawPrice": "R$ 54,89",
+    "link": "https://mercado.carrefour.com.br/vinho-branco-seco-blend-de-blancas-novecento-750ml-3139514/p"
+  },
+  {
+    "title": "Cerveja Pilsen Bavaria 350ml",
+    "rawPrice": "R$ 2,79",
+    "link": "https://mercado.carrefour.com.br/cerveja-pilsen-bavaria-350ml-5572894/p"
+  },
+  {
+    "title": "Bebida Mista com Cachaça 51 Limão 275 ml",
+    "rawPrice": "R$ 5,99",
+    "link": "https://mercado.carrefour.com.br/bebida-mista-com-cachaca-51-limao-275-ml-4308603/p"
+  },
+  {
+    "title": "Vinho Tinto Chileno Pincoya Isla Grande Valle del Maipo Cabernet Sauvignon Reserva 750 ml",
+    "rawPrice": "R$ 98,99",
+    "link": "https://mercado.carrefour.com.br/vinho-tinto-chileno-pincoya-isla-grande-valle-del-maipo-cabernet-sauvignon-reserva-750-ml-6444415/p"
+  },
+  {
+    "title": "Energético à Base de Taurina e Cafeína Frutas Tropicais Fusion 473ml",
+    "rawPrice": "R$ 4,89",
+    "link": "https://mercado.carrefour.com.br/energetico-a-base-de-taurina-e-cafeina-frutas-tropicais-fusion-473ml-3455793/p"
+  },
+  {
+    "title": "Refrigerante Limão Bioleve Zero Garrafa 1,5 L",
+    "rawPrice": "R$ 5,29",
+    "link": "https://mercado.carrefour.com.br/refrigerante-limao-bioleve-zero-garrafa-1-5-l-5209412/p"
+  },
+  {
+    "title": "Chá Orgânico Mate Tostado Laranja Carrefour Bio 10 Sachês",
+    "rawPrice": "R$ 4,09",
+    "link": "https://mercado.carrefour.com.br/cha-organico-mate-tostado-laranja-carrefour-bio-10-saches-6307620/p"
+  },
+  {
+    "title": "Preparado Líquido para Bebida Alcoólica Whisky Sour Gold & Apple Easy Drinks 240g",
+    "rawPrice": "R$ 29,90",
+    "link": "https://mercado.carrefour.com.br/preparado-liquido-para-bebida-alcoolica-whisky-sour-gold-e-apple-easy-drinks-240g-3168484/p"
+  },
+  {
+    "title": "Néctar de Maçã Maguary 1L",
+    "rawPrice": "R$ 7,99",
+    "link": "https://mercado.carrefour.com.br/nectar-de-maca-maguary-1l-9537244/p"
+  },
+  {
+    "title": "Cerveja Therezopolis Elfenbein Weiss Garrafa 500ml",
+    "rawPrice": "R$ 12,25",
+    "link": "https://mercado.carrefour.com.br/cerveja-therezopolis-elfenbein-weiss-garrafa-500ml-6917860/p"
+  },
+  {
+    "title": "Whisky Bourbon e Banana Howler Head 750ml",
+    "rawPrice": "R$ 158,00",
+    "link": "https://mercado.carrefour.com.br/-whisky-bourbon-e-banana-howler-head-750ml-3088758/p"
+  },
+  {
+    "title": "Cerveja Patagonia Bohemian Pilsener Lager Long Neck 355ml",
+    "rawPrice": "R$ 7,19",
+    "link": "https://mercado.carrefour.com.br/cerveja-patagonia-bohemian-pilsener-lager-long-neck-355ml-5664136/p"
+  },
+  {
+    "title": "Refrigerante Guaraná Frutah 2L",
+    "rawPrice": "R$ 4,99",
+    "link": "https://mercado.carrefour.com.br/refrigerante-guarana-frutah-2l-3270874/p"
+  },
+  {
+    "title": "Néctar de Laranja Maguary 1 Litro",
+    "rawPrice": "R$ 7,99",
+    "link": "https://mercado.carrefour.com.br/nectar-de-laranja-maguary-1-litro-4447344/p"
+  },
+  {
+    "title": "Vinho Tinto Conde de Cortes 750ml",
+    "rawPrice": "R$ 35,65",
+    "link": "https://mercado.carrefour.com.br/vinho-tinto-conde-de-cortes-750ml-9858474/p"
+  },
+  {
+    "title": "Néctar de Cajú Maguary 1 Litro",
+    "rawPrice": "R$ 7,99",
+    "link": "https://mercado.carrefour.com.br/nectar-de-caju-maguary-1-litro-4919742/p"
+  },
+  {
+    "title": "Cerveja IPA Puro Malte Jade Therezópolis Garrafa Com 500ml",
+    "rawPrice": "R$ 11,99",
+    "link": "https://mercado.carrefour.com.br/cerveja-ipa-puro-malte-jade-therezopolis-garrafa-com-500ml-6903134/p"
+  },
+  {
+    "title": "Refrigerante Laranja Frutah 2L",
+    "rawPrice": "R$ 4,99",
+    "link": "https://mercado.carrefour.com.br/refrigerante-laranja-frutah-2l-3270912/p"
+  },
+  {
+    "title": "Água Mineral sem Gás Evian Sport 750ml",
+    "rawPrice": "R$ 19,99",
+    "link": "https://mercado.carrefour.com.br/agua-mineral-sem-gas-evian-sport-750ml-9283331/p"
+  },
+  {
+    "title": "Refrigerante Soda Limonada Antarctica Garrafa 600ML",
+    "rawPrice": "R$ 4,29",
+    "link": "https://mercado.carrefour.com.br/refrigerante-soda-limonada-antarctica-garrafa-600ml-215228/p"
+  },
+  {
+    "title": "Preparado Líquido para Bebida Alcoólica Penincillin Easy Drinks 450g",
+    "rawPrice": "R$ 31,89",
+    "link": "https://mercado.carrefour.com.br/preparado-liquido-para-bebida-alcoolica-penincillin-easy-drinks-450g-6329853/p"
+  },
+  {
+    "title": "Vinho Merlot Terroirs Du Monde Carménère 750ml",
+    "rawPrice": "R$ 28,90",
+    "link": "https://mercado.carrefour.com.br/vinho-merlot-terroirs-du-monde-carmenere-750ml-5637279/p"
+  },
+  {
+    "title": "Energético à Base de Taurina e Cafeína Melancia Fusion Lata 473ml",
+    "rawPrice": "R$ 5,79",
+    "link": "https://mercado.carrefour.com.br/energetico-a-base-de-taurina-e-cafeina-melancia-fusion-lata-473ml-3435580/p"
+  },
+  {
+    "title": "Bebida à Base de Aveia Nude Barista 1L",
+    "rawPrice": "R$ 18,90",
+    "link": "https://mercado.carrefour.com.br/bebida-a-base-de-aveia-nude-barista-1l-6521070/p"
+  },
+  {
+    "title": "Energético Bad Boy Energy Drink Zero Açúcares 473ml",
+    "rawPrice": "R$ 8,99",
+    "link": "https://mercado.carrefour.com.br/energetico-bad-boy-energy-drink-zero-acucares-473ml-3331504/p"
+  },
+  {
+    "title": "Cappuccino Tradicional Carrefour SC 200g",
+    "rawPrice": "R$ 13,99",
+    "link": "https://mercado.carrefour.com.br/cappuccino-tradicional-carrefour-sc-200g-6459196/p"
+  },
+  {
+    "title": "Energético Bad Boy Energy Drink Sabor Melancia 473ml",
+    "rawPrice": "R$ 8,99",
+    "link": "https://mercado.carrefour.com.br/energetico-bad-boy-energy-drink-sabor-melancia-473ml-3331520/p"
+  },
+  {
+    "title": "Cerveja Patagonia Weisse, 355ml, Long Neck",
+    "rawPrice": "R$ 7,19",
+    "link": "https://mercado.carrefour.com.br/cerveja-patagonia-weisse--355ml--long-neck-5628571/p"
+  },
+  {
+    "title": "Refrigerante Maçã Verde e Limão Zero Açúcar Bioleve Garrafa1,5L",
+    "rawPrice": "R$ 5,29",
+    "link": "https://mercado.carrefour.com.br/refrigerante-maca-verde-e-limao-zero-acucar-bioleve-garrafa1-5l-5209358/p"
+  },
+  {
+    "title": "Espuma de Gengibre Easy Drinks 260g",
+    "rawPrice": "R$ 41,99",
+    "link": "https://mercado.carrefour.com.br/espuma-de-gengibre-easy-drinks-260g-6323243/p"
+  },
+  {
+    "title": "Refrigerante Mexerica e Limão Bioleve Zero Garrafa 1,5 L",
+    "rawPrice": "R$ 5,29",
+    "link": "https://mercado.carrefour.com.br/refrigerante-mexerica-e-limao-bioleve-zero-garrafa-1-5-l-5209315/p"
+  },
+  {
+    "title": "Gin Paramana Sabor Frutas Vermelhas 700ml",
+    "rawPrice": "R$ 119,90",
+    "link": "https://mercado.carrefour.com.br/gin-paramana-sabor-frutas-vermelhas-700ml-5347459/p"
+  },
+  {
+    "title": "Energético Fusion 473ml",
+    "rawPrice": "R$ 5,79",
+    "link": "https://mercado.carrefour.com.br/energetico-a-base-de-taurina-e-cafeina-melancia-fusion-473ml-3432114/p"
+  },
+  {
+    "title": "Bebida Vegetal Carrefour Viver Castanha Caju 1L",
+    "rawPrice": "R$ 13,89",
+    "link": "https://mercado.carrefour.com.br/bebida-vegetal-carrefour-viver-castanha-caju-1l-3569942/p"
+  },
+  {
+    "title": "Energético Bad Boy Energy Drink Original 473ml",
+    "rawPrice": "R$ 8,99",
+    "link": "https://mercado.carrefour.com.br/energetico-bad-boy-energy-drink-original-473ml-3331490/p"
+  },
+  {
+    "title": "Cerveja Therezópolis Rubine Bock 500ml",
+    "rawPrice": "R$ 12,25",
+    "link": "https://mercado.carrefour.com.br/cerveja-therezopolis-rubine-bock-500ml-6884318/p"
+  },
+  {
+    "title": "Bebida Láctea Nescafé Latte 270ml",
+    "rawPrice": "R$ 9,49",
+    "link": "https://mercado.carrefour.com.br/bebida-lactea-nescafe-latte-270ml-3196763/p"
+  },
+  {
+    "title": "Chá Preto Ice Tea Pêssego Leão Zero Pet 450 ml",
+    "rawPrice": "R$ 4,59",
+    "link": "https://mercado.carrefour.com.br/cha-preto-ice-tea-pessego-leao-zero-garrafa-450ml-5612691/p"
+  },
+  {
+    "title": "Especiarias para Drinks Sabor Frutas Vermelhas Easy Drinks 16g",
+    "rawPrice": "R$ 11,99",
+    "link": "https://mercado.carrefour.com.br/especiarias-para-drinks-sabor-frutas-vermelhas-easy-drinks-16g-3168387/p"
+  },
+  {
+    "title": "Preparado Líquido para Bebida Alcoólica Cosmopolitan Easy Drinks 240g",
+    "rawPrice": "R$ 43,89",
+    "link": "https://mercado.carrefour.com.br/preparado-liquido-para-bebida-alcoolica-cosmopolitan-easy-drinks-240g-6365973/p"
+  },
+  {
+    "title": "Preparado de Frutas Sabor Morango Pitaya Easy Drinks 100g",
+    "rawPrice": "R$ 9,99",
+    "link": "https://mercado.carrefour.com.br/preparado-de-frutas-sabor-morango-pitaya-easy-drinks-100g-6329837/p"
+  },
+  {
+    "title": "Suco Refrigerado Siciliana Natural Xandô 300ml",
+    "rawPrice": "R$ 5,99",
+    "link": "https://mercado.carrefour.com.br/suco-refrigerado-siciliana-natural-xando-300ml-6224997/p"
+  },
+  {
+    "title": "Energético Bad Boy Energy Drink Sabor Manga 473ml",
+    "rawPrice": "R$ 8,99",
+    "link": "https://mercado.carrefour.com.br/energetico-bad-boy-energy-drink-sabor-manga-473ml-3331547/p"
+  },
+  {
+    "title": "Bebida Vegetal Carrefour Viver Barrista 1L",
+    "rawPrice": "R$ 14,89",
+    "link": "https://mercado.carrefour.com.br/bebida-vegetal-carrefour-viver-barrista-1l-3569934/p"
+  },
+  {
+    "title": "Cafe Melitta Soluvel Extra Forte Sachê Com 40g",
+    "rawPrice": "R$ 6,99",
+    "link": "https://mercado.carrefour.com.br/cafe-melitta-soluvel-extra-forte-sache-com-40g-5370280/p"
+  },
+  {
+    "title": "Refrigerante Coca-Cola Sem Açúcar 1,5L",
+    "rawPrice": "R$ 9,39",
+    "link": "https://mercado.carrefour.com.br/refrigerante-cocacola-sem-acucar-15l-7841620/p"
+  },
+  {
+    "title": "Água de Coco Carrefour 1 Litro",
+    "rawPrice": "R$ 12,99",
+    "link": "https://mercado.carrefour.com.br/agua-de-coco-carrefour-1-litro-5844266/p"
+  },
+  {
+    "title": "Cerveja Original Pilsen 350ml Lata",
+    "rawPrice": "R$ 3,99",
+    "link": "https://mercado.carrefour.com.br/cerveja-original-pilsen-350ml-lata-5699193/p"
+  },
+  {
+    "title": "Água Mineral com Gás Crystal 500 ml",
+    "rawPrice": "R$ 2,79",
+    "link": "https://mercado.carrefour.com.br/agua-mineral-com-gas-crystal-500-ml-8812110/p"
+  },
+  {
+    "title": "Suco de Laranja Natural One Special Blend 1,5 Litros",
+    "rawPrice": "R$ 23,05",
+    "link": "https://mercado.carrefour.com.br/suco-de-laranja-natural-one-special-blend-15-litros-9989960/p"
+  },
+  {
+    "title": "Refrigerante Coca-Cola Original Garrafa 3 L Oferta Especial",
+    "rawPrice": "R$ 13,85",
+    "link": "https://mercado.carrefour.com.br/refrigerante-cocacola-original-garrafa-3-l-oferta-especial-5761760/p"
+  },
+  {
+    "title": "Energético Red Bull Energy Drink 250ml",
+    "rawPrice": "R$ 9,99",
+    "link": "https://mercado.carrefour.com.br/energetico-red-bull-energy-drink-250ml-136239/p"
+  },
+  {
+    "title": "Refrigerante Coca-Cola Original 1,5L",
+    "rawPrice": "R$ 9,39",
+    "link": "https://mercado.carrefour.com.br/refrigerante-cocacola-original-15l-3147509/p"
+  },
+  {
+    "title": "Água Mineral sem Gás Crystal 500 ml",
+    "rawPrice": "R$ 2,39",
+    "link": "https://mercado.carrefour.com.br/agua-mineral-sem-gas-crystal-500-ml-8812136/p"
+  },
+  {
+    "title": "Suco Del Valle Néctar Uva Sem Açúcar 1L",
+    "rawPrice": "R$ 8,99",
+    "link": "https://mercado.carrefour.com.br/suco-del-valle-nectar-uva-sem-acucar-1l-4308999/p"
+  },
+  {
+    "title": "Achocolatado em Pó Nescau Cilíndrico 350g",
+    "rawPrice": "R$ 16,65",
+    "link": "https://mercado.carrefour.com.br/achocolatado-em-po-nescau-cilindrico-350g-3377938/p"
+  },
+  {
+    "title": "Cerveja Heineken Premium Pilsen Lager 330ml 24 Unidades",
+    "rawPrice": "R$ 162,96",
+    "link": "https://mercado.carrefour.com.br/cerveja-heineken-premium-pilsen-lager-330ml-24-unidades-b2-1-9879943/p"
+  },
+  {
+    "title": "Cerveja Brahma Duplo Malte Puro Malte 350ml Lata",
+    "rawPrice": "R$ 3,79",
+    "link": "https://mercado.carrefour.com.br/cerveja-brahma-duplo-malte-puro-malte-350ml-lata-6643426/p"
+  },
+  {
+    "title": "Café em Pó 3 Corações Gourmet Sul de Minas 250g",
+    "rawPrice": "R$ 24,75",
+    "link": "https://mercado.carrefour.com.br/cafe-em-po-3-coracoes-gourmet-sul-de-minas-250g-6127088/p"
+  },
+  {
+    "title": "Cerveja Spaten Lata Sleek 350 ml",
+    "rawPrice": "R$ 4,39",
+    "link": "https://mercado.carrefour.com.br/cerveja-spaten-lata-sleek-350-ml-644673w-6446736/p"
+  },
+  {
+    "title": "Água Mineral sem Gás Minalba 1,5 Litros",
+    "rawPrice": "R$ 3,89",
+    "link": "https://mercado.carrefour.com.br/agua-mineral-sem-gas-minalba-15-litros-708941/p"
+  },
+  {
+    "title": "Vinho Tinto Chileno Cabernet Sauvignon Siete Soles - 750 ml",
+    "rawPrice": "R$ 29,49",
+    "link": "https://mercado.carrefour.com.br/vinho-tinto-chileno-cabernet-sauvignon-siete-soles-750-ml-8766860/p"
+  },
+  {
+    "title": "Refrigerante Fanta Laranja 2L",
+    "rawPrice": "R$ 9,29",
+    "link": "https://mercado.carrefour.com.br/refrigerante-fanta-laranja-2l-157201/p"
+  },
+  {
+    "title": "Chá Ice Tea Leão Pêssego 1,5L",
+    "rawPrice": "R$ 7,69",
+    "link": "https://mercado.carrefour.com.br/cha-ice-tea-leao-pessego-15l-5587735/p"
+  },
+  {
+    "title": "Kit 1 Coca-Cola Original + 1 Fanta Guaraná 2L",
+    "rawPrice": "R$ 16,79",
+    "link": "https://mercado.carrefour.com.br/kit-1-cocacola-original-1-fanta-guarana-2l-6534465/p"
+  },
+  {
+    "title": "Água Mineral sem Gás Minalba 10 Litros",
+    "rawPrice": "R$ 19,49",
+    "link": "https://mercado.carrefour.com.br/agua-mineral-sem-gas-minalba-10-litros-7054777/p"
+  },
+  {
+    "title": "Suco de Maçã Yakult 200ml",
+    "rawPrice": "R$ 4,09",
+    "link": "https://mercado.carrefour.com.br/suco-de-maca-yakult-200ml-155497/p"
+  },
+  {
+    "title": "Refrigerante Sprite Original 2L",
+    "rawPrice": "R$ 9,49",
+    "link": "https://mercado.carrefour.com.br/refrigerante-sprite-original-2l-5473969/p"
+  },
+  {
+    "title": "Isotônico Gatorade Morango com Maracujá 500ml Garrafa",
+    "rawPrice": "R$ 4,99",
+    "link": "https://mercado.carrefour.com.br/isotonico-gatorade-morango-com-maracuja-500ml-garrafa-7216629/p"
+  },
+  {
+    "title": "Café Torrado e Moído a Vácuo Italiano Pilão Cafeteria Pacote 500 g",
+    "rawPrice": "R$ 32,15",
+    "link": "https://mercado.carrefour.com.br/cafe-torrado-e-moido-a-vacuo-italiano-pilao-cafeteria-pacote-500-g-6478336/p"
+  },
+  {
+    "title": "Suco de Uva e Maçã Integral Refrigerado Natural One 100% Suco 900ml",
+    "rawPrice": "R$ 19,89",
+    "link": "https://mercado.carrefour.com.br/suco-de-uva-e-maca-integral-refrigerado-natural-one-100-suco-900ml-9541829/p"
+  },
+  {
+    "title": "Chá Matte Leão Original 1,5L",
+    "rawPrice": "R$ 8,49",
+    "link": "https://mercado.carrefour.com.br/cha-matte-leao-original-15l-5174481/p"
+  },
+  {
+    "title": "Café em Cápsula NESCAFÉ DOLCE GUSTO Cappuccino 10 Cápsulas",
+    "rawPrice": "R$ 24,59",
+    "link": "https://mercado.carrefour.com.br/cafe-em-capsula-nescafe-dolce-gusto-cappuccino-10-capsulas-6004326/p"
+  },
+  {
+    "title": "Bebida Láctea 15g Proteínas Sabor Baunilha Carrefour Sensation Whey 250ml",
+    "rawPrice": "R$ 5,09",
+    "link": "https://mercado.carrefour.com.br/bebida-lactea-15g-proteinas-sabor-baunilha-carrefour-sensation-whey-250ml-3404463/p"
+  },
+  {
+    "title": "Whisky Ballantine's Finest Blended Escocês - 1 litro",
+    "rawPrice": "R$ 98,90",
+    "link": "https://mercado.carrefour.com.br/whisky-ballantines-finest-blended-escoces-1-litro-278858/p"
+  },
+  {
+    "title": "Energético Frutas Vermelhas Zero Açúcar Red Bull The Spring Edition Lata 250ml",
+    "rawPrice": "R$ 9,09",
+    "link": "https://mercado.carrefour.com.br/energetico-frutas-vermelhas-zero-acucar-red-bull-the-spring-edition-lata-250ml-3521184/p"
+  },
+  {
+    "title": "Vinho Chileno Branco Doce Reservado Spritzer Concha y Toro Moscato Garrafa 750 ml",
+    "rawPrice": "R$ 33,90",
+    "link": "https://mercado.carrefour.com.br/vinho-chileno-branco-doce-reservado-spritzer-concha-y-toro-moscato-garrafa-750-ml-6524818/p"
+  },
+  {
+    "title": "Suco de Maçã Integral Refrigerado Natural One 100% Suco 900ml",
+    "rawPrice": "R$ 16,99",
+    "link": "https://mercado.carrefour.com.br/suco-de-maca-integral-refrigerado-natural-one-100-suco-900ml-9427961/p"
+  },
+  {
+    "title": "Vinho Tinto Manto Blanco Pinot Noir 750ml",
+    "rawPrice": "R$ 32,55",
+    "link": "https://mercado.carrefour.com.br/vinho-tinto-manto-blanco-pinot-noir-750ml-9785485/p"
+  },
+  {
+    "title": "Vinho Tinto Português Red Blend Faisão Com 750ml",
+    "rawPrice": "R$ 15,29",
+    "link": "https://mercado.carrefour.com.br/vinho-tinto-portugues-red-blend-faisao-com-750ml-6565743/p"
+  },
+  {
+    "title": "Suco Misto Uva e Maçã sem Adição de Açúcar Natural One Ambiente 1,5L",
+    "rawPrice": "R$ 23,90",
+    "link": "https://mercado.carrefour.com.br/suco-misto-uva-e-maca-sem-adicao-de-acucar-natural-one-ambiente-15l-9989900/p"
+  },
+  {
+    "title": "Vinho Tinto Suave Chileno Conca y Toro Reservado Sweet Red 750 ml",
+    "rawPrice": "R$ 33,90",
+    "link": "https://mercado.carrefour.com.br/vinho-tinto-suave-chileno-conca-y-toro-reservado-sweet-red-750-ml-5587573/p"
+  },
+  {
+    "title": "Coca-Cola Zero Açúcar 350ml - 12 Unidades",
+    "rawPrice": "R$ 46,68",
+    "link": "https://mercado.carrefour.com.br/cocacola-zero-acucar-350ml-12-unidades-b2-12-7792999/p"
+  },
+  {
+    "title": "Bebida Láctea 15g Proteínas Sabor Chocolate Carrefour Sensation Whey 250ml",
+    "rawPrice": "R$ 5,09",
+    "link": "https://mercado.carrefour.com.br/bebida-lactea-15g-proteinas-sabor-chocolate-carrefour-sensation-whey-250ml-3405699/p"
+  },
+  {
+    "title": "Gatorade Sabor Laranja-Lima Atividades Diárias 350ml",
+    "rawPrice": "R$ 4,49",
+    "link": "https://mercado.carrefour.com.br/gatorade-sabor-laranja-lima-atividades-diarias-350ml-3240592/p"
+  },
+  {
+    "title": "Refrigerante Cola Pepsi Garrafa 200 ml",
+    "rawPrice": "R$ 1,49",
+    "link": "https://mercado.carrefour.com.br/refrigerante-cola-pepsi-garrafa-200-ml-5703263/p"
+  },
+  {
+    "title": "Bebida Mista Rum Xeque Mate 355ml",
+    "rawPrice": "R$ 9,99",
+    "link": "https://mercado.carrefour.com.br/bebida-mista-rum-xeque-mate-355ml-3000222/p"
+  },
+  {
+    "title": "Kit Refrigerante Coca-Cola Sem Açúcar Pet 200 ml 12 Unidades",
+    "rawPrice": "R$ 21,48",
+    "link": "https://mercado.carrefour.com.br/kit-refrigerante-coca-cola-sem-acucar-pet-200-ml-12-unidades-b2-12-5235790/p"
+  },
+  {
+    "title": "Energético Monster Energy Ultra White Sem Açúcar 473ml",
+    "rawPrice": "R$ 10,19",
+    "link": "https://mercado.carrefour.com.br/energetico-monster-energy-ultra-white-sem-acucar-473ml-8627320/p"
+  },
+  {
+    "title": "Vinho Italiano Rose Carmelina Lambrusco 750 ml",
+    "rawPrice": "R$ 35,65",
+    "link": "https://mercado.carrefour.com.br/vinho-italiano-rose-carmelina-lambrusco-750-ml-6374883/p"
+  },
+  {
+    "title": "Aperitivo Lillet Blanc de Vinho Francês 750ml",
+    "rawPrice": "R$ 124,90",
+    "link": "https://mercado.carrefour.com.br/aperitivo-lillet-blanc-de-vinho-frances-750ml-6269672/p"
+  },
+  {
+    "title": "Energético Red Bull Tropical 250ml",
+    "rawPrice": "R$ 9,09",
+    "link": "https://mercado.carrefour.com.br/energetico-red-bull-tropical-250ml-5013992/p"
+  },
+  {
+    "title": "Cerveja Pilsen Gold Therezopolis Garrafa 500ML",
+    "rawPrice": "R$ 9,49",
+    "link": "https://mercado.carrefour.com.br/cerveja-pilsen-gold-therezopolis-garrafa-500ml-3101304/p"
+  },
+  {
+    "title": "Bebida à Base de Soja Sabor Uva Ades 1 L",
+    "rawPrice": "R$ 7,59",
+    "link": "https://mercado.carrefour.com.br/bebida-de-soja-ades-uva-1-l-6342159/p"
+  },
+  {
+    "title": "Água Mineral sem Gás São Lourenço 300ml",
+    "rawPrice": "R$ 2,75",
+    "link": "https://mercado.carrefour.com.br/agua-mineral-sem-gas-sao-lourenco-300ml-4761731/p"
+  },
+  {
+    "title": "Whisky Ballantine's Finest Edição Limitada Elton John 750ml",
+    "rawPrice": "R$ 84,90",
+    "link": "https://mercado.carrefour.com.br/whisky-ballantines-finest-edicao-limitada-elton-john-750ml-3552330/p"
+  },
+  {
+    "title": "Refresco em pó Clight Sem Açúcar Limonada 8g",
+    "rawPrice": "R$ 1,75",
+    "link": "https://mercado.carrefour.com.br/refresco-em-po-clight-sem-acucar-limonada-8g-5053170/p"
+  },
+  {
+    "title": "Energético à Base de Taurina e Cafeína Zero Açúcar Monster 473ml",
+    "rawPrice": "R$ 10,19",
+    "link": "https://mercado.carrefour.com.br/energetico-a-base-de-taurina-e-cafeina-zero-acucar-monster-473ml-3432130/p"
+  },
+  {
+    "title": "Água Mineral Sem Gás Classic Carrefour Garrafa 1,5 Litros",
+    "rawPrice": "R$ 2,09",
+    "link": "https://mercado.carrefour.com.br/agua-mineral-sem-gas-classic-carrefour-garrafa-1-5-litros-3030504/p"
+  },
+  {
+    "title": "Energético Monster Energy Juice Mango Loco 473ml",
+    "rawPrice": "R$ 10,19",
+    "link": "https://mercado.carrefour.com.br/energetico-monster-energy-juice-mango-loco-473ml-5781060/p"
+  },
+  {
+    "title": "Chá Matte Leão Original Zero 1,5L",
+    "rawPrice": "R$ 8,49",
+    "link": "https://mercado.carrefour.com.br/cha-matte-leao-original-zero-15l-5174503/p"
+  },
+  {
+    "title": "Chá Verde Limão Siciliano com Hortelã Zero Açúcar Yaí 1L",
+    "rawPrice": "R$ 7,39",
+    "link": "https://mercado.carrefour.com.br/cha-verde-limao-siciliano-com-hortela-zero-acucar-yai-1l-3700437/p"
+  },
+  {
+    "title": "Água Mineral com Gás Crystal 500ml - 12 Unidades",
+    "rawPrice": "R$ 33,48",
+    "link": "https://mercado.carrefour.com.br/agua-mineral-com-gas-crystal-500ml-12-unidades-b2-12-8812110/p"
+  },
+  {
+    "title": "Néctar Misto Sabor Uva e Maçã Carrefour Classic 1L",
+    "rawPrice": "R$ 5,19",
+    "link": "https://mercado.carrefour.com.br/nectar-misto-sabor-uva-e-maca-carrefour-classic-1l-3184153/p"
+  },
+  {
+    "title": "Refrigerante Coca-Cola Garrafa 2 L 6 Unidades",
+    "rawPrice": "R$ 65,94",
+    "link": "https://mercado.carrefour.com.br/refrigerante-coca-cola-garrafa-2-l-6-unidades-b2-6-5761719/p"
+  },
+  {
+    "title": "Água Mineral Natural com Gás São Lourenço 510 ml",
+    "rawPrice": "R$ 3,15",
+    "link": "https://mercado.carrefour.com.br/agua-mineral-com-gas-sao-lourenco-510ml-737119/p"
+  },
+  {
+    "title": "Vinho Branco Chileno Concha Y Toro Reservado Sauvignon Blanc 750 ml",
+    "rawPrice": "R$ 34,25",
+    "link": "https://mercado.carrefour.com.br/vinho-branco-chileno-concha-y-toro-reservado-sauvignon-blanc-750-ml-4883209/p"
+  },
+  {
+    "title": "Gelo em Cubos Carrefour 5 kg",
+    "rawPrice": "R$ 13,15",
+    "link": "https://mercado.carrefour.com.br/gelo-em-cubos-carrefour-5-kg-5834961/p"
+  },
+  {
+    "title": "Whisky Chivas Regal Extra 13 anos Escocês 750ml",
+    "rawPrice": "R$ 178,90",
+    "link": "https://mercado.carrefour.com.br/whisky-chivas-regal-extra-13-anos-escoces-750ml-9678670/p"
+  },
+  {
+    "title": "Vinho Branco Manto Blanco Sauvignon Blanc 750ml",
+    "rawPrice": "R$ 32,55",
+    "link": "https://mercado.carrefour.com.br/vinho-branco-manto-blanco-sauvignon-blanc-750ml/p"
+  },
+  {
+    "title": "Refresco em pó Clight Sem Açúcar Uva 8g",
+    "rawPrice": "R$ 1,75",
+    "link": "https://mercado.carrefour.com.br/refresco-em-po-clight-sem-acucar-uva-8g-5053390/p"
+  },
+  {
+    "title": "Vinho Rosé Meio Seco Casillero del Diablo Belight Garrafa 750ml",
+    "rawPrice": "R$ 61,15",
+    "link": "https://mercado.carrefour.com.br/vinho-rose-meio-seco-casillero-del-diablo-belight-garrafa-750ml-3014231/p"
+  },
+  {
+    "title": "Água de Coco Ducoco 1 Litro",
+    "rawPrice": "R$ 14,65",
+    "link": "https://mercado.carrefour.com.br/agua-de-coco-ducoco-1-litro-8461880/p"
+  },
+  {
+    "title": "Vinho Rose Chileno Casillero del Diablo Reserva 750 ml",
+    "rawPrice": "R$ 59,90",
+    "link": "https://mercado.carrefour.com.br/vinho-rose-chileno-casillero-del-diablo-reserva-750-ml-5199450/p"
+  },
+  {
+    "title": "Suco Concentrado Maracujá Maguary Garrafa 1l",
+    "rawPrice": "R$ 17,99",
+    "link": "https://mercado.carrefour.com.br/suco-concentrado-maguary-maracuja-1-litro-6473687/p"
+  },
+  {
+    "title": "Refrigerante h2oh limão Garrafa 500ML",
+    "rawPrice": "R$ 3,65",
+    "link": "https://mercado.carrefour.com.br/refrigerante-h2oh-limao-garrafa-500ml-7694008/p"
+  },
+  {
+    "title": "Vinho Tinto Seco Santa Colheita 750 ml",
+    "rawPrice": "R$ 18,89",
+    "link": "https://mercado.carrefour.com.br/vinho-tinto-seco-santa-colheita-750-ml-6596789/p"
+  },
+  {
+    "title": "Néctar Uva Del Valle Caixa 200 ml",
+    "rawPrice": "R$ 3,49",
+    "link": "https://mercado.carrefour.com.br/nectar-uva-del-valle-caixa-200-ml-6544940/p"
+  },
+  {
+    "title": "Suco Del Valle 100% Laranja TP 1L",
+    "rawPrice": "R$ 18,35",
+    "link": "https://mercado.carrefour.com.br/suco-del-valle-100-laranja-tp-1l-9628860/p"
+  },
+  {
+    "title": "Fanta Uva Pet 2 L",
+    "rawPrice": "R$ 9,29",
+    "link": "https://mercado.carrefour.com.br/fanta-uva-2-litros-157279/p"
+  },
+  {
+    "title": "Vinho Branco Meio Seco Português Real Grei Alentejo 750 ml",
+    "rawPrice": "R$ 35,90",
+    "link": "https://mercado.carrefour.com.br/vinho-branco-meio-seco-portugues-real-grei-alentejo-750-ml/p"
+  },
+  {
+    "title": "Água Mineral sem Gás Crystal 1,5 Litros - Pack com 8 Unidades",
+    "rawPrice": "R$ 26,15",
+    "link": "https://mercado.carrefour.com.br/agua-mineral-sem-gas-crystal-1-5-litros-pack-com-8-unidades-9758100/p"
+  },
+  {
+    "title": "Suco de Soja Ades Uva 200 ml",
+    "rawPrice": "R$ 2,55",
+    "link": "https://mercado.carrefour.com.br/suco-de-soja-ades-uva-200-ml-6403530/p"
+  },
+  {
+    "title": "Suco de Cajú Dafruta 500ml",
+    "rawPrice": "R$ 4,39",
+    "link": "https://mercado.carrefour.com.br/suco-de-caju-dafruta-500ml-135372/p"
+  },
+  {
+    "title": "Coca-Cola 200ml -12 Unidades",
+    "rawPrice": "R$ 23,88",
+    "link": "https://mercado.carrefour.com.br/cocacola-200ml-12-unidades-b2-12-9882375/p"
+  },
+  {
+    "title": "Gatorade Sabor Frutas Silvestres Atividades Diárias 350ml",
+    "rawPrice": "R$ 4,59",
+    "link": "https://mercado.carrefour.com.br/gatorade-sabor-frutas-silvestres-atividades-diarias-350ml-3240584/p"
+  },
+  {
+    "title": "Suco de Uva Maguary Fruit Shoot150ML",
+    "rawPrice": "R$ 1,85",
+    "link": "https://mercado.carrefour.com.br/suco-de-uva-maguary-fruit-shoot150ml-5808669/p"
+  },
+  {
+    "title": "Espumante Sweet Dolce Moscato Natale Verga 750ml",
+    "rawPrice": "R$ 49,90",
+    "link": "https://mercado.carrefour.com.br/espumante-sweet-dolce-moscato-natale-verga-750ml-8000128160138/p"
+  },
+  {
+    "title": "Bebida Láctea Cappuccino Cookies'n Cream com Café e Cacau 3 Corações Power Whey 250ml",
+    "rawPrice": "R$ 8,15",
+    "link": "https://mercado.carrefour.com.br/bebida-lactea-cappuccino-cookiesn-cream-com-cafe-e-cacau-3-coracoes-power-whey-250ml-3181049/p"
+  },
+  {
+    "title": "Vinho branco Italiano Lambrusco Dell Emilia 750ml",
+    "rawPrice": "R$ 35,65",
+    "link": "https://mercado.carrefour.com.br/vinho-branco-italiano-lambrusco-dell-emilia-750ml-3712320/p"
+  },
+  {
+    "title": "Pack Bebida Láctea Instantânea Toddynho 200ml - 12 Unidades",
+    "rawPrice": "R$ 34,68",
+    "link": "https://mercado.carrefour.com.br/pack-bebida-lactea-instantanea-toddynho-200ml-12-unidades-b2-12-149314/p"
+  },
+  {
+    "title": "Água Mineral com Gás São Lourenço 300ml",
+    "rawPrice": "R$ 3,15",
+    "link": "https://mercado.carrefour.com.br/agua-mineral-com-gas-sao-lourenco-300ml-4761758/p"
+  },
+  {
+    "title": "Bebida Láctea de Chocolate Italakinho 200ml",
+    "rawPrice": "R$ 1,69",
+    "link": "https://mercado.carrefour.com.br/bebida-lactea-de-chocolate-italakinho-200ml-7597940/p"
+  },
+  {
+    "title": "Cerveja Heineken Premium Pilsen Lager 330ml - 48 Unidades",
+    "rawPrice": "R$ 325,92",
+    "link": "https://mercado.carrefour.com.br/cerveja-heineken-premium-pilsen-lager-330ml-48-unidades-b2-48-9879943/p"
+  },
+  {
+    "title": "Whisky Ballantine's Finest Edição Limitada John Lennon 750ml",
+    "rawPrice": "R$ 84,90",
+    "link": "https://mercado.carrefour.com.br/whisky-ballantines-finest-edicao-limitada-john-lennon-750ml-3554910/p"
+  },
+  {
+    "title": "Whisky Ballantine's 10 Anos Blended Escocês - 750ml",
+    "rawPrice": "R$ 127,45",
+    "link": "https://mercado.carrefour.com.br/whisky-ballantines-10-anos-blended-escoces-750ml-3494845/p"
+  },
+  {
+    "title": "Suco de Laranja Life Mix Kids 200ml",
+    "rawPrice": "R$ 4,79",
+    "link": "https://mercado.carrefour.com.br/suco-de-laranja-life-mix-kids-200ml-9852824/p"
+  },
+  {
+    "title": "Whisky Jack Daniel’s Honey 700ml",
+    "rawPrice": "R$ 134,90",
+    "link": "https://mercado.carrefour.com.br/whisky-jack-daniels-honey-700ml-3457621/p"
+  },
+  {
+    "title": "Vinho Tinto Frisante Carmelina Lambrusco 750ml",
+    "rawPrice": "R$ 34,90",
+    "link": "https://mercado.carrefour.com.br/vinho-tinto-frisante-carmelina-lambrusco-750ml-8604347/p"
+  },
+  {
+    "title": "Bebida Láctea Alpino 280ml",
+    "rawPrice": "R$ 6,59",
+    "link": "https://mercado.carrefour.com.br/bebida-lactea-alpino-280ml-7420943/p"
+  },
+  {
+    "title": "Vinho Branco Seco Terroirs Du Monde Verde 2018 750ml",
+    "rawPrice": "R$ 50,95",
+    "link": "https://mercado.carrefour.com.br/vinho-branco-seco-terroirs-du-monde-verde-2018-750ml/p"
+  },
+  {
+    "title": "Vinho Rosé Frisante Suave Mioranza 750ml",
+    "rawPrice": "R$ 25,90",
+    "link": "https://mercado.carrefour.com.br/vinho-rose-frisante-suave-mioranza-750ml-5784638/p"
+  },
+  {
+    "title": "Chá Verde Frutas Vermelhas Zero Açúcar Yaí 1L",
+    "rawPrice": "R$ 7,49",
+    "link": "https://mercado.carrefour.com.br/cha-verde-frutas-vermelhas-zero-acucar-yai-1l-3700780/p"
+  },
+  {
+    "title": "Vinho Branco Chileno Casillero del Diablo Sauvignon Blanc Reserva 750 ml",
+    "rawPrice": "R$ 61,15",
+    "link": "https://mercado.carrefour.com.br/vinho-branco-chileno-casillero-del-diablo-sauvignon-blanc-reserva-750-ml-928615/p"
+  },
+  {
+    "title": "Refrigerante Fanta Laranja 350ML",
+    "rawPrice": "R$ 3,19",
+    "link": "https://mercado.carrefour.com.br/refrigerante-fanta-laranja-350ml-157104/p"
+  },
+  {
+    "title": "Café Pilão Cápsula Forte 10 unidades",
+    "rawPrice": "R$ 24,49",
+    "link": "https://mercado.carrefour.com.br/cafe-pilao-capsula-forte-10-unidades-6190618/p"
+  },
+  {
+    "title": "Vinho Tinto Suave Carrefour Classic 750 ml",
+    "rawPrice": "R$ 15,69",
+    "link": "https://mercado.carrefour.com.br/vinho-tinto-suave-carrefour-classic-750-ml6585574/p"
+  },
+  {
+    "title": "Cachaça Velho Barreiro 910 ml",
+    "rawPrice": "R$ 15,25",
+    "link": "https://mercado.carrefour.com.br/cachaca-velho-barreiro-910-ml-611735/p"
+  },
+  {
+    "title": "Vinho Tinto Suave Chalise Isabel, Concord e Seibel 750ml",
+    "rawPrice": "R$ 15,25",
+    "link": "https://mercado.carrefour.com.br/vinho-tinto-suave-chalise-isabel-concord-e-seibel-750ml-747840/p"
+  },
+  {
+    "title": "Vinho Rosé Salton Lunae 750ml",
+    "rawPrice": "R$ 22,90",
+    "link": "https://mercado.carrefour.com.br/vinho-rose-salton-lunae-750ml-8230013/p"
+  },
+  {
+    "title": "Cerveja Lager Corona Extra 330 ml 48 unidades",
+    "rawPrice": "R$ 345,12",
+    "link": "https://mercado.carrefour.com.br/cerveja-lager-corona-extra-330-ml-48-unidades-b2-48-5760593/p"
+  },
+  {
+    "title": "Água Mineral sem Gás Nestlé Pureza Vital 510ml",
+    "rawPrice": "R$ 1,99",
+    "link": "https://mercado.carrefour.com.br/agua-mineral-sem-gas-nestle-pureza-vital-510ml-7026129/p"
+  },
+  {
+    "title": "Néctar Misto Sabor Laranja e Maçã Carrefour Classic 1L",
+    "rawPrice": "R$ 5,19",
+    "link": "https://mercado.carrefour.com.br/nectar-misto-sabor-laranja-e-maca-carrefour-classic-1l-3184145/p"
+  },
+  {
+    "title": "Bebida Vegetal Natures Heart Barista Aveia 1L",
+    "rawPrice": "R$ 16,35",
+    "link": "https://mercado.carrefour.com.br/bebida-vegetal-natures-heart-barista-aveia-1l-6974538/p"
+  },
+  {
+    "title": "Suco Maguary Maracujá 200ml",
+    "rawPrice": "R$ 2,85",
+    "link": "https://mercado.carrefour.com.br/suco-maguary-maracuja-200ml-3022145/p"
+  },
+  {
+    "title": "Vinho Tinto Chileno Concha Y Toro Reservado Carménère 750 ml",
+    "rawPrice": "R$ 33,90",
+    "link": "https://mercado.carrefour.com.br/vinho-tinto-chileno-concha-y-toro-reservado-carmenere-750-ml-4883195/p"
+  },
+  {
+    "title": "Suco Concentrado de Caju Maguary 500ml",
+    "rawPrice": "R$ 5,99",
+    "link": "https://mercado.carrefour.com.br/suco-concentrado-de-caju-maguary-500ml-184551/p"
+  },
+  {
+    "title": "Vinho Tinto Manto Blanco Carménère 750ml",
+    "rawPrice": "R$ 31,90",
+    "link": "https://mercado.carrefour.com.br/vinho-tinto-manto-blanco-carmenere-750ml-9785469/p"
+  },
+  {
+    "title": "Suco Maçã Del Valle Caixa 200 ml",
+    "rawPrice": "R$ 3,89",
+    "link": "https://mercado.carrefour.com.br/suco-maca-del-valle-caixa-200ml-5858160/p"
+  },
+  {
+    "title": "Cachaça 51 965ml",
+    "rawPrice": "R$ 13,09",
+    "link": "https://mercado.carrefour.com.br/cachaca-51-965ml-156558/p"
+  },
+  {
+    "title": "Refresco em pó Clight Sem Açúcar Laranja 8g",
+    "rawPrice": "R$ 1,69",
+    "link": "https://mercado.carrefour.com.br/refresco-em-po-clight-sem-acucar-laranja-8g-5053463/p"
+  },
+  {
+    "title": "Néctar Misto Sabor Uva e Maçã Carrefour Classic 200ml",
+    "rawPrice": "R$ 2,15",
+    "link": "https://mercado.carrefour.com.br/nectar-misto-sabor-uva-e-maca-carrefour-classic-200ml-3184170/p"
+  },
+  {
+    "title": "Achocolatado Carrefour Classic 200ml",
+    "rawPrice": "R$ 1,79",
+    "link": "https://mercado.carrefour.com.br/achocolatado-carrefour-classic-200ml-3365239/p"
+  },
+  {
+    "title": "Cerveja Spaten Lata Sleek 350 ml 12 Unidades",
+    "rawPrice": "R$ 49,08",
+    "link": "https://mercado.carrefour.com.br/cerveja-spaten-lata-sleek-350-ml-12-unidades-b2-1-6446736/p"
+  },
+  {
+    "title": "Whisky Ballantine's 10 Anos Blended Escocês - 1 Litro",
+    "rawPrice": "R$ 150,90",
+    "link": "https://mercado.carrefour.com.br/whisky-ballantines-10-anos-blended-escoces-1-litro-3496074/p"
+  },
+  {
+    "title": "Café Torrado e Moído Tradicional Jardim 500 g",
+    "rawPrice": "R$ 21,95",
+    "link": "https://mercado.carrefour.com.br/cafe-torrado-e-moido-tradicional-jardim-500-g-7621434/p"
+  },
+  {
+    "title": "Suco Goiaba Natural One Refrigerado Garrafa 900 ml",
+    "rawPrice": "R$ 17,35",
+    "link": "https://mercado.carrefour.com.br/suco-goiaba-natural-one-refrigerado-garrafa-900-ml-6228011/p"
+  },
+  {
+    "title": "Vinho Tinto Manto Blanco Cabernet Sauvignon 750ml",
+    "rawPrice": "R$ 31,90",
+    "link": "https://mercado.carrefour.com.br/vinho-tinto-manto-blanco-cabernet-sauvignon-750ml-9785450/p"
+  },
+  {
+    "title": "Refresco em pó Clight Sem Açúcar Maracuja 8g",
+    "rawPrice": "R$ 1,75",
+    "link": "https://mercado.carrefour.com.br/refresco-em-po-clight-sem-acucar-maracuja-8g-5053420/p"
+  },
+  {
+    "title": "Xarope Concentrado Sabor Groselha Carrefour 1 Litro",
+    "rawPrice": "R$ 9,49",
+    "link": "https://mercado.carrefour.com.br/xarope-concentrado-sabor-groselha-carrefour-1-litro-240702/p"
+  },
+  {
+    "title": "Xarope Maçã Verde Mathieu Teisseire Garrafa 700 ml",
+    "rawPrice": "R$ 58,99",
+    "link": "https://mercado.carrefour.com.br/xarope-maca-verde-mathieu-teisseire-garrafa-700-ml-6518532/p"
+  },
+  {
+    "title": "Água de Coco Integral Aqua Coco Garrafa 1 L",
+    "rawPrice": "R$ 14,29",
+    "link": "https://mercado.carrefour.com.br/agua-de-coco-integral-aqua-coco-garrafa-1-l-6540872/p"
+  },
+  {
+    "title": "Cerveja Brahma Chopp Pilsen 350ml 18 Latas",
+    "rawPrice": "R$ 59,22",
+    "link": "https://mercado.carrefour.com.br/cerveja-brahma-chopp-pilsen-350ml-18-latas-5474299/p"
+  },
+  {
+    "title": "Chá Preto com Limão Leão 290 ml",
+    "rawPrice": "R$ 4,59",
+    "link": "https://mercado.carrefour.com.br/cha-preto-com-limao-leao-290-ml-6427030/p"
+  },
+  {
+    "title": "Leite em Pó Integral Piracanjuba 1kg",
+    "rawPrice": "R$ 42,99",
+    "link": "https://mercado.carrefour.com.br/leite-em-po-integral-piracanjuba-1kg-9254145/p"
+  },
+  {
+    "title": "Bebida Mista Alcoólica Gaseificada Tropical Smirnoff Ice 269ml",
+    "rawPrice": "R$ 5,79",
+    "link": "https://mercado.carrefour.com.br/bebida-mista-alcoolica-gaseificada-tropical-smirnoff-ice-269ml-3589625/p"
+  },
+  {
+    "title": "Energético Monster Energy Ultra Violet Sem Açúcar 473ml",
+    "rawPrice": "R$ 10,19",
+    "link": "https://mercado.carrefour.com.br/energetico-monster-energy-ultra-violet-sem-acucar-473ml-5805805/p"
+  },
+  {
+    "title": "Espumante Salton Doce Branco Moscatel 750ml",
+    "rawPrice": "R$ 39,90",
+    "link": "https://mercado.carrefour.com.br/espumante-salton-doce-branco-moscatel-750ml-4509218/p"
+  },
+  {
+    "title": "Licor Amarula Raspberry Chocolate Baobab Garrafa 700ml",
+    "rawPrice": "R$ 159,90",
+    "link": "https://mercado.carrefour.com.br/licor-amarula-raspberry-chocolate-baobab-garrafa-700ml-6711294/p"
+  },
+  {
+    "title": "Whisky The Glenlivet Founder's Reserve Single Malt Escocês - 750 ml",
+    "rawPrice": "R$ 324,90",
+    "link": "https://mercado.carrefour.com.br/whisky-the-glenlivet-founders-reserve-single-malt-escoces-750ml-652408w-6524087/p"
+  },
+  {
+    "title": "Vinho Tinto Seco Chalise Isabel, Concord e Seibel 750ml",
+    "rawPrice": "R$ 14,90",
+    "link": "https://mercado.carrefour.com.br/vinho-tinto-seco-chalise-isabel-concord-e-seibel-750ml-3244440/p"
+  },
+  {
+    "title": "Café Solúvel Tradicional Carrefour SC 50g",
+    "rawPrice": "R$ 3,99",
+    "link": "https://mercado.carrefour.com.br/cafe-soluvel-tradicional-carrefour-sc-50g-6459153/p"
+  },
+  {
+    "title": "Bebida Vegetal de Amêndoas Almond Breeze Original 1 Litro",
+    "rawPrice": "R$ 16,99",
+    "link": "https://mercado.carrefour.com.br/bebida-vegetal-de-amendoas-almond-breeze-original-1-litro/p"
+  },
+  {
+    "title": "Kit Cerveja Original Pilsen 350ml Lata 24 Unidades",
+    "rawPrice": "R$ 83,76",
+    "link": "https://mercado.carrefour.com.br/kit-cerveja-original-pilsen-350ml-lata-24-unidades-b2-24-5699193/p"
+  },
+  {
+    "title": "Bebida Mista Alcoólica Gaseificada Frutas Vermelhas Beats Red Mix Lata 269ml",
+    "rawPrice": "R$ 5,99",
+    "link": "https://mercado.carrefour.com.br/bebida-mista-alcoolica-gaseificada-frutas-vermelhas-beats-red-mix-lata-269ml-3578372/p"
+  },
+  {
+    "title": "Suco Concentrado Caju Maguary Garrafa 1l",
+    "rawPrice": "R$ 10,79",
+    "link": "https://mercado.carrefour.com.br/suco-concentrado-caju-maguary-garrafa-1l-9746749/p"
+  },
+  {
+    "title": "Vinho Chileno Tinto Seco Marques de Casa Concha Merlot Valle del Maule Garrafa 750 ml",
+    "rawPrice": "R$ 139,90",
+    "link": "https://mercado.carrefour.com.br/vinho-chileno-tinto-seco-marques-de-casa-concha-merlot-valle-del-maule-garrafa-750-ml-4185250/p"
+  },
+  {
+    "title": "Vinho Tinto Chileno Casillero del Diablo Carmenere Reserva 750 ml",
+    "rawPrice": "R$ 59,90",
+    "link": "https://mercado.carrefour.com.br/vinho-tinto-chileno-casillero-del-diablo-carmenere-reserva-750-ml-4692870/p"
+  },
+  {
+    "title": "Suco Maracujá e Maçã Life Mix Turma da Mônica Caixa 200 ml",
+    "rawPrice": "R$ 4,79",
+    "link": "https://mercado.carrefour.com.br/suco-maracuja-e-maca-life-mix-turma-da-monica-caixa-200-ml-6106498/p"
+  },
+  {
+    "title": "Suco de Frutas Cítricas Del Valle Kapo 200 ml",
+    "rawPrice": "R$ 2,65",
+    "link": "https://mercado.carrefour.com.br/suco-de-frutas-citricas-del-valle-kapo-200ml-6004610/p"
+  },
+  {
+    "title": "Cerveja Lager Premium Puro Malte Stella Artois Garrafa 330 ml 48 Unidades",
+    "rawPrice": "R$ 287,52",
+    "link": "https://mercado.carrefour.com.br/cerveja-lager-premium-puro-malte-stella-artois-garrafa-330-ml-48-unidades-b2-2-6242740/p"
+  },
+  {
+    "title": "Água Mineral sem Gás Crystal 500ml - 12 Unidades",
+    "rawPrice": "R$ 28,68",
+    "link": "https://mercado.carrefour.com.br/agua-mineral-sem-gas-crystal-500ml-12-unidades-b2-12-8812136/p"
+  },
+  {
+    "title": "Complemento Alimentar Nutren Senior Baunilha 740g",
+    "rawPrice": "R$ 199,90",
+    "link": "https://mercado.carrefour.com.br/complemento-alimentar-nutren-senior-baunilha-740g-5912032/p"
+  },
+  {
+    "title": "Vinho Tinto Italiano Primitivo Salento Natale Verga Safra 2019 Garrafa 750ml",
+    "rawPrice": "R$ 39,90",
+    "link": "https://mercado.carrefour.com.br/vinho-tinto-italiano-primitivo-salento-natale-verga-safra-2019-garrafa-750ml-3714918/p"
+  },
+  {
+    "title": "Suco Misto de Uva e Maçã Carrefour Classic 1L",
+    "rawPrice": "R$ 11,35",
+    "link": "https://mercado.carrefour.com.br/suco-misto-de-uva-e-maca-carrefour-classic-1l-3189368/p"
+  },
+  {
+    "title": "Suco de Laranja Maguary Fruit Shoot 150ML",
+    "rawPrice": "R$ 1,79",
+    "link": "https://mercado.carrefour.com.br/suco-de-laranja-maguary-fruit-shoot-150ml-5808693/p"
+  },
+  {
+    "title": "Vinho Chileno Tinto Seco Reserva Casillero del Diablo Merlot Valle Central Garrafa 750 ml",
+    "rawPrice": "R$ 59,90",
+    "link": "https://mercado.carrefour.com.br/vinho-chileno-tinto-seco-reserva-casillero-del-diablo-merlot-valle-central-garrafa-750-ml-3924149/p"
+  },
+  {
+    "title": "Refresco em pó Tang Manga 18g",
+    "rawPrice": "R$ 1,35",
+    "link": "https://mercado.carrefour.com.br/refresco-em-po-tang-manga-18g-5391300/p"
+  },
+  {
+    "title": "Cerveja Original Pale Lager 600ml - 12 Unidades",
+    "rawPrice": "R$ 119,88",
+    "link": "https://mercado.carrefour.com.br/cerveja-original-pale-lager-600ml-12-unidades-b2-12-4698606/p"
+  },
+  {
+    "title": "Água Mineral sem Gás Nestlé Pureza Vital 6,3 Litros",
+    "rawPrice": "R$ 12,65",
+    "link": "https://mercado.carrefour.com.br/agua-mineral-sem-gas-nestle-pureza-vital-6-3-litros-9530541/p"
+  },
+  {
+    "title": "Refresco em pó Clight Sem Açúcar Abacaxi 8g",
+    "rawPrice": "R$ 1,59",
+    "link": "https://mercado.carrefour.com.br/refresco-em-po-clight-sem-acucar-abacaxi-8g-5053374/p"
+  },
+  {
+    "title": "Xarope Concentrado Sabor Guaraná Carrefour 1 Litro",
+    "rawPrice": "R$ 9,49",
+    "link": "https://mercado.carrefour.com.br/xarope-concentrado-sabor-guarana-carrefour-1-litro-240729/p"
+  },
+  {
+    "title": "Whisky Old Parr 18 anos 750ml",
+    "rawPrice": "R$ 539,90",
+    "link": "https://mercado.carrefour.com.br/whisky-old-parr-18-anos-750ml-5925282/p"
+  },
+  {
+    "title": "Pó para preparo de Bebida de Abacaxi Carrefour 1L",
+    "rawPrice": "R$ 0,75",
+    "link": "https://mercado.carrefour.com.br/po-para-preparo-de-bebida-de-abacaxi-carrefour-1l-5741971/p"
+  },
+  {
+    "title": "Vinho Tinto Chileno Concha Y Toro Reservado Merlot 750 ml",
+    "rawPrice": "R$ 33,90",
+    "link": "https://mercado.carrefour.com.br/vinho-tinto-chileno-concha-y-toro-reservado-merlot-750-ml-7502664/p"
+  },
+  {
+    "title": "Chá Verde Lichia Zero Açúcar Yaí 1L",
+    "rawPrice": "R$ 7,49",
+    "link": "https://mercado.carrefour.com.br/cha-verde-lichia-zero-acucar-yai-1l-3700798/p"
+  },
+  {
+    "title": "Vinho Tinto Novecento Malbec 750ml",
+    "rawPrice": "R$ 50,95",
+    "link": "https://mercado.carrefour.com.br/vinho-tinto-novecento-malbec-750ml-8607451/p"
+  },
+  {
+    "title": "Whisky Chivas Regal Escocês 18 Anos 750 ml",
+    "rawPrice": "R$ 637,90",
+    "link": "https://mercado.carrefour.com.br/whisky-chivas-regal-escoces-18-anos-750-ml-627070/p"
+  },
+  {
+    "title": "Espumante Salton Brut Branco Chardonnay e Trebbiano 750ml",
+    "rawPrice": "R$ 39,90",
+    "link": "https://mercado.carrefour.com.br/espumante-salton-brut-branco-chardonnay-e-trebbiano-750ml-154369/p"
+  },
+  {
+    "title": "Bebida Láctea UHT Chocolate Zero Lactose Piracanjuba Whey 250ml",
+    "rawPrice": "R$ 5,99",
+    "link": "https://mercado.carrefour.com.br/bebida-lactea-uht-chocolate-zero-lactose-piracanjuba-whey-250ml-3211657/p"
+  },
+  {
+    "title": "Vinho Tinto Chileno 120 Coleção Indepedência Cabernet Sauvignon Santa Rita Garrafa 750ml",
+    "rawPrice": "R$ 40,90",
+    "link": "https://mercado.carrefour.com.br/vinho-tinto-chileno-120-colecao-indepedencia-cabernet-sauvignon-santa-rita-garrafa-750ml-3710181/p"
+  },
+  {
+    "title": "Néctar Laranja Del Valle 200ml",
+    "rawPrice": "R$ 3,59",
+    "link": "https://mercado.carrefour.com.br/nectar-laranja-del-valle-200ml-6544924/p"
+  },
+  {
+    "title": "Vodka Absolut Citron 750 ml",
+    "rawPrice": "R$ 116,90",
+    "link": "https://mercado.carrefour.com.br/vodka-absolut-citron-750-ml-168297/p"
+  },
+  {
+    "title": "Néctar de Caju Tial Caixa 200 ml",
+    "rawPrice": "R$ 2,05",
+    "link": "https://mercado.carrefour.com.br/nectar-de-caju-tial-caixa-200-ml-5878292/p"
+  },
+  {
+    "title": "Néctar Sabor Caju Carrefour Classic 1L",
+    "rawPrice": "R$ 5,19",
+    "link": "https://mercado.carrefour.com.br/nectar-sabor-caju-carrefour-classic-1l-6689833/p"
+  },
+  {
+    "title": "Isotônico Powerade Sabor Uva 500 ml",
+    "rawPrice": "R$ 4,79",
+    "link": "https://mercado.carrefour.com.br/isotonico-powerade-sabor-uva-500ml-8705631/p"
+  },
+  {
+    "title": "Refresco de Uva Del Valle Frut 1,5 Litros",
+    "rawPrice": "R$ 5,89",
+    "link": "https://mercado.carrefour.com.br/refresco-de-uva-del-valle-frut-1-5-litros-9472673/p"
+  },
+  {
+    "title": "Energético Water Monster Ultra 473ml",
+    "rawPrice": "R$ 10,19",
+    "link": "https://mercado.carrefour.com.br/energetico-water-monster-ultra-473ml-3061949/p"
+  },
+  {
+    "title": "Complemento Alimentar Nutren Senior Baunilha 370g",
+    "rawPrice": "R$ 101,95",
+    "link": "https://mercado.carrefour.com.br/complemento-alimentar-nutren-senior-baunilha-370g-5066743/p"
+  },
+  {
+    "title": "Vinho Tinto Seco Terroirs Du Monde Merlot 2017 750ml",
+    "rawPrice": "R$ 49,90",
+    "link": "https://mercado.carrefour.com.br/vinho-tinto-seco-terroirs-du-monde-merlot-2017-750ml-5852021/p"
+  },
+  {
+    "title": "Suco Nectar Yummy Uva Maca Tp 1l",
+    "rawPrice": "R$ 4,99",
+    "link": "https://mercado.carrefour.com.br/suco-nectar-yummy-uva-maca-tp-1l-5831644/p"
+  },
+  {
+    "title": "Néctar de Uva Maguary 200ml",
+    "rawPrice": "R$ 2,79",
+    "link": "https://mercado.carrefour.com.br/nectar-de-uva-maguary-200ml-9284176/p"
+  },
+  {
+    "title": "Vinho Tinto Manto Blanco Reserva Pinot Noir 750ml",
+    "rawPrice": "R$ 49,89",
+    "link": "https://mercado.carrefour.com.br/vinho-tinto-manto-blanco-reserva-pinot-noir-750ml-9785442/p"
+  },
+  {
+    "title": "Preparado Sólido para Refresco em Pó Saborizado com Fruta Morango com Iogurte Frisco Pacote 18g",
+    "rawPrice": "R$ 1,19",
+    "link": "https://mercado.carrefour.com.br/preparado-solido-para-refresco-em-po-saborizado-com-fruta-morango-com-iogurte-frisco-pacote-18g-3257207/p"
+  },
+  {
+    "title": "Suco Refrigerado Integral Laranja Xandô 1,5L",
+    "rawPrice": "R$ 24,85",
+    "link": "https://mercado.carrefour.com.br/suco-refrigerado-integral-laranja-xando-1-5l-6597432/p"
+  },
+  {
+    "title": "Suco de Citrus Del Valle Frut 1,5 Litro",
+    "rawPrice": "R$ 6,05",
+    "link": "https://mercado.carrefour.com.br/suco-de-citrus-del-valle-frut-1-5-litro-9461019/p"
+  },
+  {
+    "title": "Suco de Uva Branco Integral Aurora 1,5L",
+    "rawPrice": "R$ 23,35",
+    "link": "https://mercado.carrefour.com.br/suco-de-uva-branco-integral-aurora-15l-6919707/p"
+  },
+  {
+    "title": "Energético Red Bull Tradicional 355ml - 24 Unidades",
+    "rawPrice": "R$ 321,36",
+    "link": "https://mercado.carrefour.com.br/energetico-red-bull-tradicional-355ml-24-unidades-b2-24-8191280/p"
+  },
+  {
+    "title": "Drink Pronto Beats Caipirinha 269ml Long Neck",
+    "rawPrice": "R$ 7,79",
+    "link": "https://mercado.carrefour.com.br/drink-pronto-beats-caipirinha-269ml-long-neck-6990410/p"
+  },
+  {
+    "title": "Refresco em pó Tang Goiaba 18g",
+    "rawPrice": "R$ 1,35",
+    "link": "https://mercado.carrefour.com.br/refresco-em-po-tang-goiaba-18g-5391121/p"
+  },
+  {
+    "title": "Coca-Cola 350ml - 12 Unidades",
+    "rawPrice": "R$ 46,68",
+    "link": "https://mercado.carrefour.com.br/cocacola-350ml-12-unidades-b2-12-156892/p"
+  },
+  {
+    "title": "Gin London Dry Intencion Garrafa 900 ml",
+    "rawPrice": "R$ 22,35",
+    "link": "https://mercado.carrefour.com.br/gin-london-dry-intencion-garrafa-900-ml-5867304/p"
+  },
+  {
+    "title": "Energético Fusion 2L",
+    "rawPrice": "R$ 10,49",
+    "link": "https://mercado.carrefour.com.br/energetico-fusion-2l-6940315/p"
+  },
+  {
+    "title": "Energético Pomelo Zero Açúcar Red Bull The Pomelo Edition 250ml",
+    "rawPrice": "R$ 8,89",
+    "link": "https://mercado.carrefour.com.br/energetico-pomelo-zero-acucar-red-bull-the-pomelo-edition-250ml-3599973/p"
+  },
+  {
+    "title": "Néctar de Maracujá Maratá 1 Litro",
+    "rawPrice": "R$ 6,35",
+    "link": "https://mercado.carrefour.com.br/nectar-de-maracuja-marata-1-litro-5175933/p"
+  },
+  {
+    "title": "Néctar de Uva e Cranberry Funcional Life Mix 200ml",
+    "rawPrice": "R$ 3,49",
+    "link": "https://mercado.carrefour.com.br/nectar-de-uva-e-cranberry-funcional-life-mix-200ml-9631674/p"
+  },
+  {
+    "title": "Rum Montilla Carta Branca 1 Litro",
+    "rawPrice": "R$ 42,90",
+    "link": "https://mercado.carrefour.com.br/rum-montilla-carta-branca-1-litro-7417870/p"
+  },
+  {
+    "title": "Vinho Tinto Italiano Casa Dei Fanti Winemaker's Collection Montepulciano D'Abruzzo 750 ml",
+    "rawPrice": "R$ 134,90",
+    "link": "https://mercado.carrefour.com.br/vinho-tinto-italiano-casa-dei-fanti-winemaker-s-collection-montepulciano-d-abruzzo-750-ml-6439241/p"
+  },
+  {
+    "title": "Vinho Argentino Tinto Seco Porteño Norton Cabernet Sauvignon Mendoza Garrafa 750ml",
+    "rawPrice": "R$ 49,49",
+    "link": "https://mercado.carrefour.com.br/vinho-argentino-tinto-seco-porteno-norton-cabernet-sauvignon-mendoza-garrafa-750ml-3286479/p"
+  },
+  {
+    "title": "Vinho Rosé Seco Le Rosé de Julie Grenache 750 ml",
+    "rawPrice": "R$ 89,99",
+    "link": "https://mercado.carrefour.com.br/vinho-rose-seco-le-rose-de-julie-grenache-750-ml-6446760/p"
+  },
+  {
+    "title": "Suco de Uva Concentrado Da Fruta 500 ml",
+    "rawPrice": "R$ 4,28",
+    "link": "https://mercado.carrefour.com.br/suco-de-uva-concentrado-da-fruta-500-ml-135437/p"
+  },
+  {
+    "title": "Néctar Sabor Manga Carrefour Classic 200ml",
+    "rawPrice": "R$ 2,15",
+    "link": "https://mercado.carrefour.com.br/nectar-sabor-manga-carrefour-classic-200ml-5375290/p"
+  },
+  {
+    "title": "Vermute Cinzano Rosso 1000ml",
+    "rawPrice": "R$ 40,75",
+    "link": "https://mercado.carrefour.com.br/vermute-cinzano-rosso-1000ml-6132626/p"
+  },
+  {
+    "title": "Energético Monster Energy Dragon Ice Tea Lemon 473ml",
+    "rawPrice": "R$ 10,29",
+    "link": "https://mercado.carrefour.com.br/energetico-monster-energy-dragon-ice-tea-lemon-473ml-6653227/p"
+  },
+  {
+    "title": "Suplemento Uva Plant Power Jungle Low Carb Frasco 500ml",
+    "rawPrice": "R$ 9,79",
+    "link": "https://mercado.carrefour.com.br/suplemento-uva-plant-power-jungle-low-carb-frasco-500ml-3167011/p"
+  },
+  {
+    "title": "Kit Especial 16",
+    "rawPrice": "R$ 58,29",
+    "link": "https://mercado.carrefour.com.br/kit-especial-16-b1-5637180-8595879/p"
+  },
+  {
+    "title": "Cachaça Ypióca Empalhada Ouro 965ml",
+    "rawPrice": "R$ 59,90",
+    "link": "https://mercado.carrefour.com.br/cachaca-ypioca-empalhada-ouro-965ml-9423419/p"
+  },
+  {
+    "title": "Suco de Uva Integral Garibaldi 300ml",
+    "rawPrice": "R$ 8,99",
+    "link": "https://mercado.carrefour.com.br/suco-de-uva-integral-garibaldi-300ml-5760186/p"
+  },
+  {
+    "title": "Água Mineral com Gás Prata 1,27 Litros",
+    "rawPrice": "R$ 8,69",
+    "link": "https://mercado.carrefour.com.br/agua-mineral-com-gas-prata-1-27-litros-627666/p"
+  },
+  {
+    "title": "Cerveja Therezópolis Ebenholz Dunkel Garrafa 500ml",
+    "rawPrice": "R$ 12,25",
+    "link": "https://mercado.carrefour.com.br/cerveja-therezopolis-ebenholz-dunkel-garrafa-500ml-6884261/p"
+  },
+  {
+    "title": "Energético Baly Frutas Tropicais com 473 ml",
+    "rawPrice": "R$ 6,15",
+    "link": "https://mercado.carrefour.com.br/energetico-baly-frutas-tropicais-com-473-ml-3006786/p"
+  },
+  {
+    "title": "Suco Integral Uva Tinto Aurora 1,5 Litros",
+    "rawPrice": "R$ 25,15",
+    "link": "https://mercado.carrefour.com.br/suco-integral-uva-tinto-aurora-15-litros-6919693/p"
+  },
+  {
+    "title": "Refresco em pó Tang Laranja Mamão 18g",
+    "rawPrice": "R$ 1,35",
+    "link": "https://mercado.carrefour.com.br/refresco-em-po-tang-laranja-mamao-18g-5391237/p"
+  },
+  {
+    "title": "Refrigerante Fanta Guaraná 350ML",
+    "rawPrice": "R$ 3,19",
+    "link": "https://mercado.carrefour.com.br/refrigerante-fanta-guarana-350ml-5067138/p"
+  },
+  {
+    "title": "Suco de Uva Natural One Special Blend 300ml",
+    "rawPrice": "R$ 6,99",
+    "link": "https://mercado.carrefour.com.br/suco-de-uva-natural-one-special-blend-300ml-8640238/p"
+  },
+  {
+    "title": "Bebida Láctea Batida com Açúcar e Mel Carrefour Classic 800ml",
+    "rawPrice": "R$ 8,09",
+    "link": "https://mercado.carrefour.com.br/bebida-lactea-batida-com-acucar-e-mel-carrefour-classic-800ml-3243184/p"
+  },
+  {
+    "title": "Cerveja Colorado Vixnu 600ml Garrafa",
+    "rawPrice": "R$ 14,49",
+    "link": "https://mercado.carrefour.com.br/cerveja-colorado-vixnu-600ml-garrafa-9866655/p"
+  },
+  {
+    "title": "Vinho Branco Seco Sauvignon Blanc Santa Carolina 750 ml",
+    "rawPrice": "R$ 39,89",
+    "link": "https://mercado.carrefour.com.br/vinho-branco-seco-sauvignon-blanc-santa-carolina-750-ml/p"
+  },
+  {
+    "title": "Whisky Dewars 12 Anos 750 Ml",
+    "rawPrice": "R$ 144,90",
+    "link": "https://mercado.carrefour.com.br/whisky-dewars-12-anos-750-ml-6335403/p"
+  },
+  {
+    "title": "Espumante Português Branco Brut Adegamãe 750 Ml",
+    "rawPrice": "R$ 64,90",
+    "link": "https://mercado.carrefour.com.br/espumante-portugues-branco-brut-adegamae-750-ml-5898587/p"
+  },
+  {
+    "title": "Vinho Tinto Espanhol Altos de Tamaron Roble 750 ml",
+    "rawPrice": "R$ 33,90",
+    "link": "https://mercado.carrefour.com.br/vinho-tinto-espanhol-altos-de-tamaron-roble-750-ml-5636957/p"
+  },
+  {
+    "title": "Vinho Tinto Chileno Adobe Carmenere Orgânico Reserva 375ml",
+    "rawPrice": "R$ 39,90",
+    "link": "https://mercado.carrefour.com.br/vinho-tinto-chileno-adobe-carmenere-organico-reserva-375ml-6435971/p"
+  },
+  {
+    "title": "Vinho Tinto Argentino Syrah e Malbec Puente Sur 750ml",
+    "rawPrice": "R$ 39,99",
+    "link": "https://mercado.carrefour.com.br/vinho-tinto-argentino-syrah-e-malbec-puente-sur-750ml-7790314076527/p"
+  },
+  {
+    "title": "Vinho Rosê Chileno 120 Santa Rita Garrafa 750ml",
+    "rawPrice": "R$ 41,75",
+    "link": "https://mercado.carrefour.com.br/vinho-rose-chileno-120-santa-rita-garrafa-750ml-3710165/p"
+  },
+  {
+    "title": "Cerveja Skol Pilsen 350ml - 18 Unidades",
+    "rawPrice": "R$ 64,62",
+    "link": "https://mercado.carrefour.com.br/cerveja-skol-pilsen-350ml-18-unidades-5301840/p"
+  },
+  {
+    "title": "Pink Lemonade Orgânico Poder Da Terra 200ml",
+    "rawPrice": "R$ 4,09",
+    "link": "https://mercado.carrefour.com.br/pink-lemonade-organico-poder-da-terra-200ml-5749840/p"
+  },
+  {
+    "title": "Suco de Maçã Carrefour Classic 1L",
+    "rawPrice": "R$ 14,69",
+    "link": "https://mercado.carrefour.com.br/suco-de-maca-carrefour-classic-1l-3184102/p"
+  },
+  {
+    "title": "Bebida à Base de Aveia Orgânica Nude Baunilha 200ml",
+    "rawPrice": "R$ 5,09",
+    "link": "https://mercado.carrefour.com.br/bebida-a-base-de-aveia-organica-nude-baunilha-200ml-6858139/p"
+  },
+  {
+    "title": "Vinho Tinto Meio Seco Espanhol Viña Losar Tempranillo 750ml",
+    "rawPrice": "R$ 29,90",
+    "link": "https://mercado.carrefour.com.br/vinho-tinto-meio-seco-espanhol-vina-losar-tempranillo-750ml-6398421/p"
+  },
+  {
+    "title": "Suco de Laranja Natural One 300ml",
+    "rawPrice": "R$ 7,15",
+    "link": "https://mercado.carrefour.com.br/suco-de-laranja-natural-one-300ml-5614783/p"
+  },
+  {
+    "title": "Bebida Láctea Sabor Frutas Vermelhas Carrefour Classic 150ml",
+    "rawPrice": "R$ 2,25",
+    "link": "https://mercado.carrefour.com.br/bebida-lactea-sabor-frutas-vermelhas-carrefour-classic-150ml-3243222/p"
+  },
+  {
+    "title": "Energético Baly Tropical Zero Açúcar 473ml",
+    "rawPrice": "R$ 6,15",
+    "link": "https://mercado.carrefour.com.br/energetico-baly-tropical-zero-acucar-473ml-6703879/p"
+  },
+  {
+    "title": "Água de Coco Sabor Maracujá Sococo Mais 200ml",
+    "rawPrice": "R$ 2,85",
+    "link": "https://mercado.carrefour.com.br/agua-de-coco-sabor-maracuja-sococo-mais-200ml--9390820/p"
+  },
+  {
+    "title": "Refresco de Abacaxi Del Valle Kapo 200ml",
+    "rawPrice": "R$ 2,59",
+    "link": "https://mercado.carrefour.com.br/refresco-de-abacaxi-del-valle-kapo-200ml-3359891/p"
+  },
+  {
+    "title": "Energético Monster Energy 473ml - 6 Unidades",
+    "rawPrice": "R$ 56,34",
+    "link": "https://mercado.carrefour.com.br/energetico-monster-energy-473ml-6-unidades-b2-6-9901000/p"
+  },
+  {
+    "title": "Refrigerante Sukita Laranja Lata 350ML",
+    "rawPrice": "R$ 3,05",
+    "link": "https://mercado.carrefour.com.br/refrigerante-sukita-laranja-lata-350ml-155160/p"
+  },
+  {
+    "title": "Vinho Branco do Porto Real Companhia Velha Malvasia 750 ml",
+    "rawPrice": "R$ 140,00",
+    "link": "https://mercado.carrefour.com.br/vinho-branco-do-porto-real-companhia-velha-malvasia-750-ml/p"
+  },
+  {
+    "title": "Xarope Framboesa Mathieu Teisseire Garrafa 700 ml",
+    "rawPrice": "R$ 58,99",
+    "link": "https://mercado.carrefour.com.br/xarope-framboesa-mathieu-teisseire-garrafa-700-ml-6518613/p"
+  },
+  {
+    "title": "Vinho Rose Seco Espanhol Finca Los Trenzones Tempranillo 750 ml",
+    "rawPrice": "R$ 54,90",
+    "link": "https://mercado.carrefour.com.br/vinho-rose-seco-espanhol-finca-los-trenzones-tempranillo-750-ml-6403484/p"
+  },
+  {
+    "title": "Rum Brasileiro Carta Branca Bacardi Garrafa 980 ml",
+    "rawPrice": "R$ 52,90",
+    "link": "https://mercado.carrefour.com.br/rum-brasileiro-carta-branca-bacardi-garrafa-980-ml-301140/p"
+  },
+  {
+    "title": "Vodka Salton Vorus Red Berries 1 L",
+    "rawPrice": "R$ 25,99",
+    "link": "https://mercado.carrefour.com.br/vodka-salton-vorus-red-berries-1-l-9875433/p"
+  },
+  {
+    "title": "Chá Hibisco Rosa Silvestre & Amora Leão Caixa 16 g Com 10 Unidades",
+    "rawPrice": "R$ 12,25",
+    "link": "https://mercado.carrefour.com.br/ch--hibisco-rosa-silvestre---amora-le-o-caixa-16-g-com-10-unidades-6094821/p"
+  },
+  {
+    "title": "Vinho Tinto Argentino Penumbra Malbec Garrafa 750ml",
+    "rawPrice": "R$ 49,99",
+    "link": "https://mercado.carrefour.com.br/vinho-tinto-argentino-penumbra-malbec-garrafa-750ml-3714705/p"
+  },
+  {
+    "title": "Chá Leão Adoçado Guaraná e Açaí 450 ml",
+    "rawPrice": "R$ 3,29",
+    "link": "https://mercado.carrefour.com.br/cha-leao-adocado-guarana-e-acai-450-ml-6343198/p"
+  },
+  {
+    "title": "Vinho Tinto Gato Negro Malbec 750ml",
+    "rawPrice": "R$ 39,90",
+    "link": "https://mercado.carrefour.com.br/vinho-tinto-gato-negro-malbec-750ml-7838654/p"
+  },
+  {
+    "title": "Bebida Láctea UHT Morango Nesquik 180ml",
+    "rawPrice": "R$ 3,05",
+    "link": "https://mercado.carrefour.com.br/bebida-lactea-uht-morango-nesquik-180ml-3270955/p"
+  },
+  {
+    "title": "Néctar de Manga Luminus Life 200ml",
+    "rawPrice": "R$ 3,49",
+    "link": "https://mercado.carrefour.com.br/nectar-de-manga-luminus-life-200ml-9639403/p"
+  },
+  {
+    "title": "Refrigerante Fanta Laranja 220ML",
+    "rawPrice": "R$ 2,89",
+    "link": "https://mercado.carrefour.com.br/refrigerante-fanta-laranja-220ml-9972978/p"
+  },
+  {
+    "title": "Suco Néctar Del Valle Pêssego 290 ml",
+    "rawPrice": "R$ 4,09",
+    "link": "https://mercado.carrefour.com.br/suco-nectar-del-valle-pessego-290-ml-5123739/p"
+  },
+  {
+    "title": "Vinho Branco Suave Mioranza 750ml",
+    "rawPrice": "R$ 25,90",
+    "link": "https://mercado.carrefour.com.br/vinho-branco-suave-mioranza-750ml-01-32-17/p"
+  },
+  {
+    "title": "Isotônico Sabor Limão Powerade 500ml",
+    "rawPrice": "R$ 4,79",
+    "link": "https://mercado.carrefour.com.br/isotonico-sabor-limao-powerade-500ml-5375355/p"
+  },
+  {
+    "title": "Vinho Branco Suave Carrefour Classic 750 ml",
+    "rawPrice": "R$ 15,69",
+    "link": "https://mercado.carrefour.com.br/vinho-branco-suave-carrefour-classic-750-ml-6585590/p"
+  },
+  {
+    "title": "Refrigerante Sukita Uva Garrafa 200ML",
+    "rawPrice": "R$ 1,49",
+    "link": "https://mercado.carrefour.com.br/refrigerante-sukita-uva-garrafa-200ml-6524869/p"
+  },
+  {
+    "title": "Refrigerante h2oh limão 500ml Garrafa Pack C/12",
+    "rawPrice": "R$ 43,08",
+    "link": "https://mercado.carrefour.com.br/refrigerante-h2oh-limao-500ml-garrafa-pack-c12-b2-12-7694008/p"
+  },
+  {
+    "title": "Suco Nectar de Goiaba Del Valle 290 ml",
+    "rawPrice": "R$ 4,19",
+    "link": "https://mercado.carrefour.com.br/suco-nectar-de-goiaba-del-valle-290-ml-5123216/p"
+  },
+  {
+    "title": "Suco Concentrado de Laranja Maguary Garrafa 500 ml",
+    "rawPrice": "R$ 7,29",
+    "link": "https://mercado.carrefour.com.br/suco-concentrado-de-laranja-maguary-garrafa-500-ml-4217470/p"
+  },
+  {
+    "title": "Néctar Laranja Maratá Caixa 200 ml",
+    "rawPrice": "R$ 2,05",
+    "link": "https://mercado.carrefour.com.br/nectar-laranja-marata-caixa-200-ml-9369414/p"
+  },
+  {
+    "title": "Cerveja Colorado Demoiselle 600ml Garrafa",
+    "rawPrice": "R$ 14,79",
+    "link": "https://mercado.carrefour.com.br/cerveja-colorado-demoiselle-600ml-garrafa-8250200/p"
+  },
+  {
+    "title": "Tequila José Cuervo Prata Especial 750 ml",
+    "rawPrice": "R$ 144,90",
+    "link": "https://mercado.carrefour.com.br/tequila-jose-cuervo-prata-especial-750-ml-8485496/p"
+  },
+  {
+    "title": "Vodka Absolut Elyx 750 ml",
+    "rawPrice": "R$ 254,90",
+    "link": "https://mercado.carrefour.com.br/vodka-absolut-elyx-750-ml-8616450/p"
+  },
+  {
+    "title": "Bebida Vegetal Carrefour Viver Cacau 1L",
+    "rawPrice": "R$ 14,89",
+    "link": "https://mercado.carrefour.com.br/bebida-vegetal-carrefour-viver-cacau-1l-3569950/p"
+  },
+  {
+    "title": "Vinho Tinto 8Km Carménère 750ml",
+    "rawPrice": "R$ 31,55",
+    "link": "https://mercado.carrefour.com.br/vinho-tinto-8km-carmenere-750ml-5286310/p"
+  },
+  {
+    "title": "Vinho Tinto Almena Del Sur Tannat 750ml",
+    "rawPrice": "R$ 23,98",
+    "link": "https://mercado.carrefour.com.br/vinho-tinto-almena-del-sur-tannat-750ml-3703886/p"
+  },
+  {
+    "title": "Refresco em pó Fresh Guaraná 15g",
+    "rawPrice": "R$ 1,59",
+    "link": "https://mercado.carrefour.com.br/refresco-em-po-fresh-guarana-15g-5356555/p"
+  },
+  {
+    "title": "Energético Baly Lata 473 ml",
+    "rawPrice": "R$ 6,15",
+    "link": "https://mercado.carrefour.com.br/energetico-baly-lata-473-ml-5614902/p"
+  },
+  {
+    "title": "Cerveja Extra Pilsen Corona Lata 269ml",
+    "rawPrice": "R$ 4,79",
+    "link": "https://mercado.carrefour.com.br/cerveja-extra-pilsen-corona-lata-269ml-3429857/p"
+  },
+  {
+    "title": "Energético Baly Sugarfree com 473 ml",
+    "rawPrice": "R$ 6,15",
+    "link": "https://mercado.carrefour.com.br/energetico-baly-sugarfree-com-473-ml-6703747/p"
+  },
+  {
+    "title": "Espumante Rosé Salton Moscato Com 750ml",
+    "rawPrice": "R$ 39,90",
+    "link": "https://mercado.carrefour.com.br/espumante-rose-salton-moscato-com-750ml-6475280/p"
+  },
+  {
+    "title": "Suco Refrigerado Siciliana Natural Xandô 900ml",
+    "rawPrice": "R$ 16,89",
+    "link": "https://mercado.carrefour.com.br/suco-refrigerado-siciliana-natural-xando-900ml-6224989/p"
+  },
+  {
+    "title": "Cerveja Baden Baden Pilsen Cristal Garrafa 600ml",
+    "rawPrice": "R$ 14,99",
+    "link": "https://mercado.carrefour.com.br/cerveja-baden-baden-pilsen-cristal-garrafa-600ml-4705599/p"
+  },
+  {
+    "title": "Kit Whisky escocês Singleton Single Malte 12 anos 750ml + Whisky Escocês Johnnie Walker Black Label 12 anos 750ml",
+    "rawPrice": "R$ 304,80",
+    "link": "https://mercado.carrefour.com.br/kit-whisky-escoces-singleton-single-malte-12-anos-750ml-whisky-escoces-johnnie-walker-black-label-12-anos-750ml-/p"
+  },
+  {
+    "title": "Vinho Tinto Seco Salton Cotidiano Cabernet Sauvignon 750ml",
+    "rawPrice": "R$ 24,90",
+    "link": "https://mercado.carrefour.com.br/vinho-tinto-seco-salton-cotidiano-cabernet-sauvignon-750ml-2456761/p"
+  },
+  {
+    "title": "Bebida Láctea sem Lactose Italakinho Chocolate 200ml",
+    "rawPrice": "R$ 1,59",
+    "link": "https://mercado.carrefour.com.br/bebida-lactea-sem-lactose-italakinho-chocolate-200ml-9908170/p"
+  },
+  {
+    "title": "Vodka Smirnoff Red 1,75 Litros - 4 Unidades",
+    "rawPrice": "R$ 227,60",
+    "link": "https://mercado.carrefour.com.br/vodka-smirnoff-red-1-75-litros-4-unidades-b2-4-5181500/p"
+  },
+  {
+    "title": "Smirnoff 998ml + 3 Frutas Vermelhas Easy Drinks",
+    "rawPrice": "R$ 69,87",
+    "link": "https://mercado.carrefour.com.br/smirnoff-998ml-mais-3-frutas-vermelhas-easy-drinks-b1-7006535-3-6248730/p"
+  },
+  {
+    "title": "Vinho Tinto Seco Carrefour Classic Bordô 750ml",
+    "rawPrice": "R$ 18,99",
+    "link": "https://mercado.carrefour.com.br/vinho-tinto-seco-carrefour-classic-bordo-750ml-6975526/p"
+  },
+  {
+    "title": "Suco de Maracuja Maguary Fruit Shoot 150ML",
+    "rawPrice": "R$ 1,79",
+    "link": "https://mercado.carrefour.com.br/suco-de-maracuja-maguary-fruit-shoot-150ml-5808677/p"
+  },
+  {
+    "title": "Suco Néctar Misto de Manga e Maça Yummy Fresh 1L",
+    "rawPrice": "R$ 5,09",
+    "link": "https://mercado.carrefour.com.br/suco-nectar-misto-de-manga-e-maca-yummy-fresh-1l-5830591/p"
+  },
+  {
+    "title": "Vinho Tinto Italiano Casa Dei Fanti Winemaker's Collection Primitivo Puglia 750 ml",
+    "rawPrice": "R$ 144,90",
+    "link": "https://mercado.carrefour.com.br/vinho-tinto-italiano-casa-dei-fanti-winemaker-s-collection-primitivo-puglia-750-ml-6439560/p"
+  },
+  {
+    "title": "Vinho Tinto Italiano Chianti Clássico Riserva Natale Verga 750ml",
+    "rawPrice": "R$ 179,99",
+    "link": "https://mercado.carrefour.com.br/vinho-tinto-italiano-chianti-classico-riserva-natale-verga-750ml-3714969/p"
+  },
+  {
+    "title": "Vinho Tinto Syrah e Malbec Penumbra 750ml",
+    "rawPrice": "R$ 49,99",
+    "link": "https://mercado.carrefour.com.br/vinho-tinto-syrah-e-malbec-penumbra-750ml-3715213/p"
+  },
+  {
+    "title": "Bebida Mista de Cachaça com Jambu Jambucana 750ml",
+    "rawPrice": "R$ 82,49",
+    "link": "https://mercado.carrefour.com.br/bebida-mista-de-cachaca-com-jambu-jambucana-750ml-6736858/p"
+  },
+  {
+    "title": "Vinho Tinto Italiano Dal 1947 Primitivo 750ml",
+    "rawPrice": "R$ 329,00",
+    "link": "https://mercado.carrefour.com.br/vinho-tinto-italiano-dal-1947-primitivo-750ml-6388647/p"
+  },
+  {
+    "title": "Espumante Chileno Manto Blanco Rosé 750 ml",
+    "rawPrice": "R$ 39,90",
+    "link": "https://mercado.carrefour.com.br/espumante-chileno-manto-blanco-rose-750-ml-6211020/p"
+  },
+  {
+    "title": "Vinho Tinto Conde de Cortes Doc Douro 750ml",
+    "rawPrice": "R$ 34,90",
+    "link": "https://mercado.carrefour.com.br/vinho-tinto-conde-de-cortes-doc-douro-750ml-9858466/p"
+  },
+  {
+    "title": "Vinho Branco Chileno 120 Valle Central Sauvignon Blanc Santa Rita 750ml",
+    "rawPrice": "R$ 41,75",
+    "link": "https://mercado.carrefour.com.br/vinho-branco-chileno-120-valle-central-sauvignon-blanc-santa-rita-750ml-3710149/p"
+  },
+  {
+    "title": "Vinho Tinto Italiano Corte Magna Puglia 750 ml",
+    "rawPrice": "R$ 39,90",
+    "link": "https://mercado.carrefour.com.br/vinho-tinto-italiano-corte-magna-puglia-750-ml-6461778/p"
+  },
+  {
+    "title": "Vinho Espanhol Tinto Meio Seco Superior Toro Loco Tempranillo Bobal Utiel-Requena Garrafa 750 ml",
+    "rawPrice": "R$ 64,90",
+    "link": "https://mercado.carrefour.com.br/vinho-espanhol-tinto-meio-seco-superior-toro-loco-tempranillo-bobal-utielrequena-garrafa-750-ml-6562558/p"
+  },
+  {
+    "title": "Cerveja Black Princess Miss Blonde Blond Ale 600ml",
+    "rawPrice": "R$ 14,99",
+    "link": "https://mercado.carrefour.com.br/cerveja-black-princess-miss-blonde-blond-ale-600ml-5279941/p"
+  },
+  {
+    "title": "Vinho Branco Meio Seco Cella 750ml",
+    "rawPrice": "R$ 61,99",
+    "link": "https://mercado.carrefour.com.br/vinho-branco-meio-seco-cella-750ml/p"
+  },
+  {
+    "title": "Tequila El Jimador Prata Super Premium 750 ml",
+    "rawPrice": "R$ 129,90",
+    "link": "https://mercado.carrefour.com.br/tequila-el-jimador-prata-super-premium-750-ml-9665552/p"
+  },
+  {
+    "title": "Kit Whisky Escocês Ballantines Bourbon Barrel 750ml com 2 unidades",
+    "rawPrice": "R$ 233,80",
+    "link": "https://mercado.carrefour.com.br/kit-whisky-escoces-ballantines-bourbon-barrel-750ml-com-2-unidades-b2-2-6301827/p"
+  },
+  {
+    "title": "Suco Goiaba e Maçã Tial 100% Caixa 1 L",
+    "rawPrice": "R$ 12,65",
+    "link": "https://mercado.carrefour.com.br/suco-goiaba-e-maca-tial-100-caixa-1-l-5751535/p"
+  },
+  {
+    "title": "Vinho Tinto Meio Seco Reservado Santa Carolina Carménère Valle Central 750 ml",
+    "rawPrice": "R$ 39,89",
+    "link": "https://mercado.carrefour.com.br/vinho-tinto-meio-seco-reservado-santa-carolina-carmenere-valle-central-750-ml-7838638/p"
+  },
+  {
+    "title": "Suco Concentrado de Caju Da Fruta 1 Litro",
+    "rawPrice": "R$ 7,49",
+    "link": "https://mercado.carrefour.com.br/suco-concentrado-de-caju-da-fruta-1-litro-9758305/p"
+  },
+  {
+    "title": "Suco Nectar Yummy Goiaba Maca Tp 200 ml",
+    "rawPrice": "R$ 2,05",
+    "link": "https://mercado.carrefour.com.br/suco-nectar-yummy-goiaba-maca-tp-200-ml-5831610/p"
+  },
+  {
+    "title": "Vinho Chileno Tinto Suave Fantastic Sweet Casillero del Diablo Devil's Carnaval Garrafa 750ml",
+    "rawPrice": "R$ 59,90",
+    "link": "https://mercado.carrefour.com.br/vinho-chileno-tinto-suave-fantastic-sweet-casillero-del-diablo-devil-s-carnaval-garrafa-750ml-3319164/p"
+  },
+  {
+    "title": "Água Mineral com Gás Smartwater 591 ml",
+    "rawPrice": "R$ 5,39",
+    "link": "https://mercado.carrefour.com.br/agua-mineral-com-gas-smartwater-591ml-5880530/p"
+  },
+  {
+    "title": "Vinho Tinto Integral de Mesa Seco Classic Carrefour 750 ml",
+    "rawPrice": "R$ 15,69",
+    "link": "https://mercado.carrefour.com.br/vinho-tinto-integral-de-mesa-seco-classic-carrefour-750-ml-6585582/p"
+  },
+  {
+    "title": "Energético Monster Energy Juice Pacific Punch 473ml",
+    "rawPrice": "R$ 10,29",
+    "link": "https://mercado.carrefour.com.br/energetico-monster-energy-juice-pacific-punch-473-ml-6511554/p"
+  },
+  {
+    "title": "Suco de Laranja e Morango Ateliê Frasco 300 ml",
+    "rawPrice": "R$ 7,05",
+    "link": "https://mercado.carrefour.com.br/suco-de-laranja-e-morango-atelie-frasco-300-ml-6225926/p"
+  },
+  {
+    "title": "Vinho Tinto Chileno Panul Merlot Garrafa 750ml",
+    "rawPrice": "R$ 32,99",
+    "link": "https://mercado.carrefour.com.br/vinho-tinto-chileno-panul-merlot-garrafa-750ml-3717135/p"
+  },
+  {
+    "title": "Refresco em pó Tang Tangerina 18g",
+    "rawPrice": "R$ 1,29",
+    "link": "https://mercado.carrefour.com.br/refresco-em-po-tang-tangerina-18g-5395208/p"
+  },
+  {
+    "title": "Gin Dry Theros 1 L",
+    "rawPrice": "R$ 41,90",
+    "link": "https://mercado.carrefour.com.br/gin-dry-theros-1-l-5816580/p"
+  },
+  {
+    "title": "Suco Refrigerado de Laranja Xandô 300ml",
+    "rawPrice": "R$ 6,79",
+    "link": "https://mercado.carrefour.com.br/suco-refrigerado-de-laranja-xando-300ml-7100760/p"
+  },
+  {
+    "title": "Chá Verde Jabuticaba Zero Açúcar Yaí 1L",
+    "rawPrice": "R$ 7,49",
+    "link": "https://mercado.carrefour.com.br/cha-verde-jabuticaba-zero-acucar-yai-1l-3700801/p"
+  },
+  {
+    "title": "Bebida Láctea UHT Frutas Vermelhas com Quinoa Linhaça e Chia Piracanjuba Caixa 200 ml",
+    "rawPrice": "R$ 3,49",
+    "link": "https://mercado.carrefour.com.br/bebida-lactea-uht-frutas-vermelhas-com-quinoa-linhaca-e-chia-piracanjuba-caixa-200-ml-9312560/p"
+  },
+  {
+    "title": "Néctar de Laranja Maguary 200ml",
+    "rawPrice": "R$ 2,79",
+    "link": "https://mercado.carrefour.com.br/nectar-de-laranja-maguary-200ml-9284206/p"
+  },
+  {
+    "title": "Água de Coco Com Polpa Viver Tp 330 Ml",
+    "rawPrice": "R$ 5,79",
+    "link": "https://mercado.carrefour.com.br/agua-de-coco-com-polpa-viver-tp-330-ml-6312713/p"
+  },
+  {
+    "title": "Bebida Láctea UHT Chocolate Zero Lactose Pirakids Caixa 200 ml",
+    "rawPrice": "R$ 3,49",
+    "link": "https://mercado.carrefour.com.br/bebida-lactea-uht-chocolate-zero-lactose-pirakids-caixa-200-ml-9982060/p"
+  },
+  {
+    "title": "Vodka Tridestilada Liquid Garrafa 950 ml",
+    "rawPrice": "R$ 42,99",
+    "link": "https://mercado.carrefour.com.br/vodka-tridestilada-liquid-garrafa-950-ml-5176352/p"
+  },
+  {
+    "title": "Xarope Concentrado Sabor Cranberry Kaly 700 ml",
+    "rawPrice": "R$ 46,99",
+    "link": "https://mercado.carrefour.com.br/xarope-concentrado-sabor-cranberry-kaly-700-ml-9537619/p"
+  },
+  {
+    "title": "Kit Vodka sueca Absolut natural 1litro + Gin Beefeater Dry 750ml",
+    "rawPrice": "R$ 279,80",
+    "link": "https://mercado.carrefour.com.br/kit-vodka-sueca-absolut-natural-1litro-gin-beefeater-dry-750ml-b1-7564562-166707/p"
+  },
+  {
+    "title": "Champagne Veuve Clicquot Brut Branco Pinot Noir, Pinot Meunier e Chardonnay 750ml",
+    "rawPrice": "R$ 599,90",
+    "link": "https://mercado.carrefour.com.br/champagne-veuve-clicquot-brut-branco-pinot-noir-pinot-meunier-e-chardonnay-750ml-136840/p"
+  },
+  {
+    "title": "Vinho Tinto Italiano Sette Spezie Primitivo 750ml",
+    "rawPrice": "R$ 89,90",
+    "link": "https://mercado.carrefour.com.br/vinho-tinto-italiano-sette-spezie-primitivo-750ml-6388787/p"
+  },
+  {
+    "title": "Vinho Tinto Robert Mondavi Woodbridge Cabernet Sauvignon 750ml",
+    "rawPrice": "R$ 119,90",
+    "link": "https://mercado.carrefour.com.br/vinho-tinto-robert-mondavi-woodbridge-cabernet-sauvignon-750ml-9388907/p"
+  },
+  {
+    "title": "Vinho Chileno Tinto Seco Spectacular Casillero del Diablo Devil's Carnaval Cabernet Garrafa 750ml",
+    "rawPrice": "R$ 61,15",
+    "link": "https://mercado.carrefour.com.br/vinho-chileno-tinto-seco-spectacular-casillero-del-diablo-devil-s-carnaval-cabernet-garrafa-750ml-3319075/p"
+  },
+  {
+    "title": "Vinho Tinto Argentino Exclusivo Carrefour Suelo Tempranillo Malbec 750ml",
+    "rawPrice": "R$ 49,99",
+    "link": "https://mercado.carrefour.com.br/vinho-tinto-argentino-exclusivo-carrefour-suelo-tempranillo-malbec-750ml-6656722/p"
+  },
+  {
+    "title": "Suco Nectar Yummy Maracuja Tp 1 l",
+    "rawPrice": "R$ 4,99",
+    "link": "https://mercado.carrefour.com.br/suco-nectar-yummy-maracuja-tp-1-l-5858844/p"
+  },
+  {
+    "title": "Chá Verde Pure Ahmad Tea London Caixa com 10 Sachês",
+    "rawPrice": "R$ 17,59",
+    "link": "https://mercado.carrefour.com.br/cha-verde-pure-ahmad-tea-london-caixa-com-10-saches-6727271/p"
+  },
+  {
+    "title": "Vinho Branco Italiano Natale Verga Pinotgrigio Delle Venezie 750ml",
+    "rawPrice": "R$ 61,19",
+    "link": "https://mercado.carrefour.com.br/vinho-branco-italiano-natale-verga-pinotgrigio-delle-venezie-750ml-3714900/p"
+  },
+  {
+    "title": "Vinho Tinto Suave Country Wine 750ml",
+    "rawPrice": "R$ 16,90",
+    "link": "https://mercado.carrefour.com.br/vinho-tinto-suave-country-wine-750ml-514870/p"
+  },
+  {
+    "title": "Cappuccino Tradicional Carrefour PT 200g",
+    "rawPrice": "R$ 16,69",
+    "link": "https://mercado.carrefour.com.br/cappuccino-tradicional-carrefour-pt-200g-6459200/p"
+  },
+  {
+    "title": "Preparado Sólido para Refresco em Pó Saborizado com Fruta Laranja com Acerola Frisco Pacote 18g",
+    "rawPrice": "R$ 1,19",
+    "link": "https://mercado.carrefour.com.br/preparado-solido-para-refresco-em-po-saborizado-com-fruta-laranja-com-acerola-frisco-pacote-18g-3257215/p"
+  },
+  {
+    "title": "Refresco de Água de Coco Adoçado Sabor Melancia Sococo Mais 200ml",
+    "rawPrice": "R$ 2,85",
+    "link": "https://mercado.carrefour.com.br/refresco-de-agua-de-coco-adocado-sabor-melancia-sococo-mais-200ml-3229874/p"
+  },
+  {
+    "title": "Água sem Gás Smart Water Zero Sódio 591 ml",
+    "rawPrice": "R$ 5,39",
+    "link": "https://mercado.carrefour.com.br/agua-sem-gas-smart-water-zero-sodio-garrafa-591ml-5700396/p"
+  },
+  {
+    "title": "Bebida Vegetal com Soja e Ervilha Chocolate Not Milkinho Caixa 200 ml",
+    "rawPrice": "R$ 3,99",
+    "link": "https://mercado.carrefour.com.br/bebida-vegetal-com-soja-e-ervilha-chocolate-not-milkinho-caixa-200ml-6476309/p"
+  },
+  {
+    "title": "Vinho Tinto Meio Seco Cono Sur Bicicleta 2014 - 50ml",
+    "rawPrice": "R$ 79,90",
+    "link": "https://mercado.carrefour.com.br/vinho-tinto-meio-seco-cono-sur-bicicleta-2014-50ml-7852614/p"
+  },
+  {
+    "title": "Suco Verde Natural One Refrigerado 900ml",
+    "rawPrice": "R$ 15,99",
+    "link": "https://mercado.carrefour.com.br/suco-verde-natural-one-refrigerado-900ml-3496570/p"
+  },
+  {
+    "title": "Vinho Tinto Português Reguengos Trincadeira Aragonez Castelão Alentejo 750 ml",
+    "rawPrice": "R$ 71,99",
+    "link": "https://mercado.carrefour.com.br/vinho-tinto-portugues--reguengos-trincadeira-aragonez-castelao-alentejo-750-ml-8135207/p"
+  },
+  {
+    "title": "Bebida Láctea UHT Caramelo com Café Starbucks Frappuccino 280ml",
+    "rawPrice": "R$ 10,19",
+    "link": "https://mercado.carrefour.com.br/bebida-lactea-uht-caramelo-com-cafe-starbucks-frappuccino-280ml-3412008/p"
+  },
+  {
+    "title": "Néctar Maracujá Del Valle Lata 290 ml",
+    "rawPrice": "R$ 4,29",
+    "link": "https://mercado.carrefour.com.br/nectar-maracuja-del-valle-lata-290ml-5123720/p"
+  },
+  {
+    "title": "Cerveja Estrella Galicia Puro Malte Lager Garrafa 600ml",
+    "rawPrice": "R$ 11,79",
+    "link": "https://mercado.carrefour.com.br/cerveja-estrella-galicia-puro-malte-lager-garrafa-600ml-9470093/p"
+  },
+  {
+    "title": "Energético Red Bull Energy Drink, Melancia Edition, 250 ml (24 latas)",
+    "rawPrice": "R$ 215,76",
+    "link": "https://mercado.carrefour.com.br/energetico-red-bull-energy-drink-melancia-edition-250-ml-24-latas-b2-24-6184901/p"
+  },
+  {
+    "title": "Vinho Tinto Almadén Cabernet Sauvignon 750ml",
+    "rawPrice": "R$ 40,89",
+    "link": "https://mercado.carrefour.com.br/vinho-tinto-almaden-cabernet-sauvignon-750ml-7726970/p"
+  },
+  {
+    "title": "Whisky Jack Daniel's Americano 5 Anos Apple 1L 2 Unidades",
+    "rawPrice": "R$ 339,80",
+    "link": "https://mercado.carrefour.com.br/whisky-jack-daniels-americano-5-anos-apple-1l-2-unidades-b2-2-6152244/p"
+  },
+  {
+    "title": "Whisky Black & White 1L 2 Unidades",
+    "rawPrice": "R$ 179,80",
+    "link": "https://mercado.carrefour.com.br/whisky-black-e-white-1l-2-unidades-b2-2-168238/p"
+  },
+  {
+    "title": "Bebida Láctea UHT Zero Lactose Parmalat Wheyfit Sabor Chocolate 250ml",
+    "rawPrice": "R$ 6,79",
+    "link": "https://mercado.carrefour.com.br/bebida-lactea-uht-zero-lactose-parmalat-wheyfit-sabor-chocolate-250ml-6965385/p"
   }
 ]
