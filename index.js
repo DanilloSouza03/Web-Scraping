@@ -1,19 +1,48 @@
-const fs = require("fs");
-const pop = require("puppeteer");
+import fs from "fs";
+import fetch from "node-fetch";
 
-(async () => {
-  const browser = await pop.launch({ headless: "new" });
-  const page = await browser.newPage();
+const apiBaseUrl = "https://mercado.carrefour.com.br/api/graphql";
 
+const queryParams = {
+  variables: {
+    isPharmacy: false,
+    first: 60,
+    after: "0",
+    sort: "score_desc",
+    term: "",
+    selectedFacets: [
+      { key: "category-1", value: "bebidas" },
+      { key: "category-1", value: "4599" },
+      {
+        key: "channel",
+        value: JSON.stringify({
+          salesChannel: 2,
+          regionId: "v2.16805FBD22EC494F5D2BD799FE9F1FB7",
+        }),
+      },
+      { key: "locale", value: "pt-BR" },
+      { key: "region-id", value: "v2.16805FBD22EC494F5D2BD799FE9F1FB7" },
+    ],
+  },
+};
+
+const getApiUrl = (after) => {
+  return (
+    apiBaseUrl +
+    "?operationName=ProductsQuery&variables=" +
+    encodeURIComponent(
+      JSON.stringify({ ...queryParams.variables, after: after })
+    )
+  );
+};
+
+const getProducts = async () => {
+  let after = "0";
   let allProducts = [];
-  const baseUrl = "https://mercado.carrefour.com.br/bebidas?category-1=bebidas&category-1=4599&facets=category-1&sort=score_desc&page=1";
 
-  await page.goto(baseUrl, { waitUntil: 'networkidle2' });
-
-  const products = await page.evaluate(async () => {
-    const apiUrl = "https://mercado.carrefour.com.br/api/graphql?operationName=ProductsQuery&variables=%7B%22isPharmacy%22%3Afalse%2C%22first%22%3A20%2C%22after%22%3A%220%22%2C%22sort%22%3A%22score_desc%22%2C%22term%22%3A%22%22%2C%22selectedFacets%22%3A%5B%7B%22key%22%3A%22category-1%22%2C%22value%22%3A%22bebidas%22%7D%2C%7B%22key%22%3A%22category-1%22%2C%22value%22%3A%224599%22%7D%2C%7B%22key%22%3A%22channel%22%2C%22value%22%3A%22%7B%5C%22salesChannel%5C%22%3A2%2C%5C%22regionId%5C%22%3A%5C%22v2.16805FBD22EC494F5D2BD799FE9F1FB7%5C%22%7D%22%7D%2C%7B%22key%22%3A%22locale%22%2C%22value%22%3A%22pt-BR%22%7D%2C%7B%22key%22%3A%22region-id%22%2C%22value%22%3A%22v2.16805FBD22EC494F5D2BD799FE9F1FB7%22%7D%5D%7D";
-
+  while (true) {
     try {
+      const apiUrl = getApiUrl(after);
       const response = await fetch(apiUrl, {
         method: "GET",
         headers: {
@@ -24,9 +53,17 @@ const pop = require("puppeteer");
       });
 
       const data = await response.json();
+
       const products = data.data?.search?.products?.edges || [];
 
-      return products.map(product => {
+      if (data.data?.search?.products?.pageInfo.totalCount === allProducts.length) {
+        console.log("#######################################");
+        console.info("Parando coleta não há mais dados para serem coletados.");
+        console.log("#######################################");
+        break;
+      };
+
+      products.forEach(product => {
         const name = product.node.name;
         const brand = product.node.brand?.name || "N/A";
         const breadcrumbs = product.node.breadcrumbList?.itemListElement || [];
@@ -48,19 +85,20 @@ const pop = require("puppeteer");
         const productUrl = restanteLink ? baseLink + restanteLink : "N/A";
         const links = { imageUrl, productUrl };
 
-        return { name, brand, type, category, subcategory, originalPrice, currentPrice, discountPercentage, seller, links };
+        allProducts.push({ name, brand, type, category, subcategory, originalPrice, currentPrice, discountPercentage, seller, links });
       });
 
+      after = (parseInt(after) + 60).toString();
+
+      fs.writeFileSync("output.json", JSON.stringify(allProducts, null, 2));
+      console.log(`Dados coletados: ${allProducts.length} produtos.`);
+
     } catch (error) {
-      console.error("Erro ao buscar produtos da API:", error);
-      return [];
+      console.error("Erro ao buscar produtos:", error);
     }
-  });
+  }
 
-  allProducts.push(...products);
+  console.log(`Sucesso: Coleta concluída! Total de produtos coletados: ${allProducts.length}`);
+};
 
-  await browser.close();
-
-  fs.writeFileSync("output.json", JSON.stringify(allProducts, null, 2));
-  console.log(`Coleta concluída! Total de produtos coletados: ${allProducts.length}`);
-})();
+getProducts();
