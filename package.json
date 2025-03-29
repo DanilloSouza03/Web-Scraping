@@ -9,8 +9,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "dependencies": {
-    "puppeteer": "^24.4.0"
+    "node-fetch": "^3.3.2"
   }
 }
