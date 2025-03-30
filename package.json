@@ -1,13 +1,13 @@
 {
   "name": "web_scraping",
   "version": "1.0.0",
-  "description": "",
+  "description": "Projeto de scraping para coletar dados de produtos do site Carrefour.",
   "main": "index.js",
   "scripts": {
-    "start": "index.js"
+    "scrape": "node index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Danillo Verardo",
   "license": "ISC",
   "type": "module",
   "dependencies": {
